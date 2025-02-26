@@ -1,0 +1,156 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<FormInfo version="3.0" X="0" Y="0" isComposable="2" template="Quant" name="Quant">
+    <AccordingMap/>
+    <Object type="25525" objID="61852129" name="Горизонтальная_черта">
+        <Attribute codeType="3" code="25005" checkAttVal="1"/>
+    </Object>
+    <Object type="2" objID="60155630" name="Кнопка">
+        <Event code="1">
+            <oneEvent action="2"/>
+        </Event>
+    </Object>
+    <Object type="25526" objID="62804913" name="Вертикальная_черта">
+        <Attribute codeType="3" code="25005" checkAttVal="1"/>
+    </Object>
+    <Object type="25526" objID="62855157" name="Вертикальная_черта">
+        <Attribute codeType="3" code="25005" checkAttVal="1"/>
+    </Object>
+    <Object type="25526" objID="62912296" name="Вертикальная_черта">
+        <Attribute codeType="3" code="25005" checkAttVal="1"/>
+    </Object>
+    <Object type="25526" objID="62931933" name="Вертикальная_черта">
+        <Attribute codeType="3" code="25005" checkAttVal="1"/>
+    </Object>
+    <Object type="16" objID="62986806" name="Контейнер_состояний">
+        <AccordingMap/>
+    </Object>
+    <Object type="25526" objID="63579128" name="Вертикальная_черта">
+        <Attribute codeType="3" code="25005" checkAttVal="1"/>
+    </Object>
+    <Object type="16" objID="63587759" name="Контейнер_состояний">
+        <AccordingMap/>
+    </Object>
+    <Object type="16" objID="63602942" name="Контейнер_состояний">
+        <AccordingMap/>
+    </Object>
+    <Object type="16" objID="64137985" name="Контейнер_состояний">
+        <AccordingMap/>
+    </Object>
+    <Object type="16" objID="64199328" name="Контейнер_состояний">
+        <AccordingMap/>
+    </Object>
+    <Object type="25526" objID="64403543" name="Вертикальная_черта">
+        <Attribute codeType="3" code="25005" checkAttVal="1"/>
+    </Object>
+    <Object type="25526" objID="64417615" name="Вертикальная_черта">
+        <Attribute codeType="3" code="25005" checkAttVal="1"/>
+    </Object>
+    <Object type="25526" objID="64468697" name="Вертикальная_черта">
+        <Attribute codeType="3" code="25005" checkAttVal="1"/>
+    </Object>
+    <Object type="25526" objID="64493698" name="Вертикальная_черта">
+        <Attribute codeType="3" code="25005" checkAttVal="1"/>
+    </Object>
+    <Object type="25526" objID="64529392" name="Вертикальная_черта">
+        <Attribute codeType="3" code="25005" checkAttVal="1"/>
+    </Object>
+    <Object type="25526" objID="64581739" name="Вертикальная_черта">
+        <Attribute codeType="3" code="25005" checkAttVal="1"/>
+    </Object>
+    <Object type="25526" objID="64603671" name="Вертикальная_черта">
+        <Attribute codeType="3" code="25005" checkAttVal="1"/>
+    </Object>
+    <Object type="25526" objID="64610150" name="Вертикальная_черта">
+        <Attribute codeType="3" code="25005" checkAttVal="1"/>
+    </Object>
+    <Object type="25526" objID="64610152" name="Вертикальная_черта">
+        <Attribute codeType="3" code="25005" checkAttVal="1"/>
+    </Object>
+    <Object type="25526" objID="64610151" name="Вертикальная_черта">
+        <Attribute codeType="3" code="25005" checkAttVal="1"/>
+    </Object>
+    <Object type="25526" objID="64643617" name="Вертикальная_черта">
+        <Attribute codeType="3" code="25005" checkAttVal="1"/>
+    </Object>
+    <Object type="25526" objID="64643619" name="Вертикальная_черта">
+        <Attribute codeType="3" code="25005" checkAttVal="1"/>
+    </Object>
+    <Object type="25526" objID="64643618" name="Вертикальная_черта">
+        <Attribute codeType="3" code="25005" checkAttVal="1"/>
+    </Object>
+    <Object type="25526" objID="64696187" name="Вертикальная_черта">
+        <Attribute codeType="3" code="25005" checkAttVal="1"/>
+    </Object>
+    <Object type="25526" objID="64716012" name="Вертикальная_черта">
+        <Attribute codeType="3" code="25005" checkAttVal="1"/>
+    </Object>
+    <Object type="25526" objID="64716014" name="Вертикальная_черта">
+        <Attribute codeType="3" code="25005" checkAttVal="1"/>
+    </Object>
+    <Object type="25526" objID="64716013" name="Вертикальная_черта">
+        <Attribute codeType="3" code="25005" checkAttVal="1"/>
+    </Object>
+    <Object type="25526" objID="64716016" name="Вертикальная_черта">
+        <Attribute codeType="3" code="25005" checkAttVal="1"/>
+    </Object>
+    <Object type="25526" objID="64730933" name="Вертикальная_черта">
+        <Attribute codeType="3" code="25005" checkAttVal="1"/>
+    </Object>
+    <Object type="25526" objID="64740927" name="Вертикальная_черта">
+        <Attribute codeType="3" code="25005" checkAttVal="1"/>
+    </Object>
+    <Object type="25526" objID="64830274" name="Вертикальная_черта">
+        <Attribute codeType="3" code="25005" checkAttVal="1"/>
+    </Object>
+    <Object type="25526" objID="64847956" name="Вертикальная_черта">
+        <Attribute codeType="3" code="25005" checkAttVal="1"/>
+    </Object>
+    <Object type="25526" objID="64879922" name="Вертикальная_черта">
+        <Attribute codeType="3" code="25005" checkAttVal="1"/>
+    </Object>
+    <Object type="25526" objID="64879924" name="Вертикальная_черта">
+        <Attribute codeType="3" code="25005" checkAttVal="1"/>
+    </Object>
+    <Object type="25526" objID="64879923" name="Вертикальная_черта">
+        <Attribute codeType="3" code="25005" checkAttVal="1"/>
+    </Object>
+    <Object type="25526" objID="64879926" name="Вертикальная_черта">
+        <Attribute codeType="3" code="25005" checkAttVal="1"/>
+    </Object>
+    <Object type="13" objID="64951617" name="Линия">
+        <Attribute codeType="4" code="307" checkAttVal="1"/>
+    </Object>
+    <Object type="13" objID="65070506" name="Линия">
+        <Attribute codeType="4" code="307" checkAttVal="1"/>
+    </Object>
+    <Object type="13" objID="65076030" name="Линия">
+        <Attribute codeType="4" code="307" checkAttVal="1"/>
+    </Object>
+    <Object type="13" objID="65079488" name="Линия">
+        <Attribute codeType="4" code="307" checkAttVal="1"/>
+    </Object>
+    <Object type="13" objID="65097391" name="Линия">
+        <Attribute codeType="4" code="307" checkAttVal="1"/>
+    </Object>
+    <Object type="13" objID="65114041" name="Линия">
+        <Attribute codeType="4" code="307" checkAttVal="1"/>
+    </Object>
+    <Object type="13" objID="65252844" name="Линия">
+        <Attribute codeType="4" code="307" checkAttVal="1"/>
+    </Object>
+    <Object type="13" objID="65278447" name="Линия">
+        <Attribute codeType="4" code="307" checkAttVal="1"/>
+    </Object>
+    <Object type="13" objID="65359440" name="Линия">
+        <Attribute codeType="4" code="307" checkAttVal="1"/>
+    </Object>
+    <Object type="13" objID="65366235" name="Линия">
+        <Attribute codeType="4" code="307" checkAttVal="1"/>
+    </Object>
+    <Object type="13" objID="65649094" name="Линия">
+        <Attribute codeType="4" code="307" checkAttVal="1"/>
+    </Object>
+    <Object type="47" objID="66216355" name="Текст">
+        <Attribute codeType="4" code="313" checkAttVal="1"/>
+    </Object>
+</FormInfo>
