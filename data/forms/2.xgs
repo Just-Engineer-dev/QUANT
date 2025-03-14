@@ -1,2 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<GuiStates version="2.0"/>
+<GuiStates version="2.0">
+     <object type="4" objID="54671315" name="Поле_вывода">
+          <state fAllVal="0" name="БЗ~СостояниеКвант.Аналоговые.МПРД1.ВышеНормы" knb_states="БЗ~СостояниеКвант.Аналоговые.МПРД1.ВышеНормы">
+               <property templateName="" type_att="3" value="4294901760" code="2" isParVar="no"/>
+          </state>
+          <state fAllVal="0" name="БЗ~СостояниеКвант.Аналоговые.МПРД1.НижеНормы" knb_states="БЗ~СостояниеКвант.Аналоговые.МПРД1.НижеНормы">
+               <property templateName="" type_att="3" value="4278255615" code="2" isParVar="no"/>
+          </state>
+          <state fAllVal="0" name="БЗ~СостояниеКвант.Аналоговые.МПРД1.Норма" knb_states="БЗ~СостояниеКвант.Аналоговые.МПРД1.Норма">
+               <property templateName="" type_att="3" value="4278255360" code="2" isParVar="no"/>
+          </state>
+     </object>
+</GuiStates>

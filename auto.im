@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ImitatorProfile>
-    <Settings program="" mode="1" IncTime="1" etalonDBPath="" BeginTime="01.01.2000 00:00:00.000" FreqTime="00:00:01.000" fAddTime="0"/>
-    <Params/>
+    <Settings program="" mode="0" IncTime="1" etalonDBPath="" BeginTime="14.03.2025 15:25:23.872" FreqTime="00:00:01.000" fAddTime="0"/>
+    <Params>
+        <Par formula="" name="АРУ1" fParVar="0"/>
+        <Par formula="" name="МПРД1" fParVar="0"/>
+        <Par formula="" name="МПРД2" fParVar="0"/>
+    </Params>
 </ImitatorProfile>

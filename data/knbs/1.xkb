@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XKnBase version="5" name="БЗ">
+    <element folded="1" fNoUse="0" type="0" comment="" name="СостояниеКвант" fInherits="0">
+        <element folded="1" fNoUse="0" type="0" comment="" name="Сигнальные" fInherits="0">
+            <element folded="0" fNoUse="0" type="0" comment="" name="АФУ11" fInherits="0">
+                <States>
+                    <node valq="1" typeMem="1" name="замкнут" typeVar="0"/>
+                </States>
+            </element>
+            <element folded="0" fNoUse="0" type="0" comment="" name="АФУ12" fInherits="0">
+                <States>
+                    <node valq="1" typeMem="1" name="замкнут" typeVar="0"/>
+                </States>
+            </element>
+            <element folded="0" fNoUse="0" type="0" comment="" name="АФУ22" fInherits="0">
+                <States>
+                    <node valq="1" typeMem="1" name="замкнут" typeVar="0"/>
+                </States>
+            </element>
+            <element folded="0" fNoUse="0" type="0" comment="" name="АФУ21" fInherits="0">
+                <States>
+                    <node valq="1" typeMem="1" name="замкнут" typeVar="0"/>
+                </States>
+            </element>
+            <element folded="0" fNoUse="0" type="0" comment="" name="АФУ41" fInherits="0">
+                <States>
+                    <node valq="1" typeMem="1" name="замкнут" typeVar="0"/>
+                </States>
+            </element>
+            <element folded="0" fNoUse="0" type="0" comment="" name="АФУ42" fInherits="0">
+                <States>
+                    <node valq="1" typeMem="1" name="замкнут" typeVar="0"/>
+                </States>
+            </element>
+        </element>
+        <element folded="1" fNoUse="0" type="0" comment="" name="Аналоговые" fInherits="0">
+            <element folded="0" fNoUse="0" type="0" comment="" name="АРУ1" fInherits="0">
+                <States>
+                    <node valq="1" typeMem="1" log_expr="(АРУ1>=-170)&amp;(АРУ1&lt;=-60)" name="Норма" typeVar="0"/>
+                    <node valq="1" typeMem="1" log_expr="АРУ1&lt;-170" name="НижеНормы" typeVar="0"/>
+                    <node valq="1" typeMem="1" log_expr="АРУ1>-60&#xa;" name="ВышеНормы" typeVar="0"/>
+                </States>
+            </element>
+            <element folded="0" fNoUse="0" type="0" comment="" name="АРУ2" fInherits="0">
+                <States>
+                    <node valq="1" typeMem="1" log_expr="(АРУ2>=-170)&amp;(АРУ2&lt;=-60)" name="Норма" typeVar="0"/>
+                    <node valq="1" typeMem="1" log_expr="АРУ2>-60" name="ВышеНормы" typeVar="0"/>
+                    <node valq="1" typeMem="1" log_expr="АРУ2&lt;-170" name="НижеНормы" typeVar="0"/>
+                </States>
+            </element>
+            <element folded="0" fNoUse="0" type="0" comment="" name="МПРД1" fInherits="0">
+                <States>
+                    <node valq="1" typeMem="1" log_expr="( МПРД1 >= 6 ) &amp; ( МПРД1 &lt;= 9 )" name="Норма" typeVar="0"/>
+                    <node valq="1" typeMem="1" log_expr="МПРД1>9" name="ВышеНормы" typeVar="0"/>
+                    <node valq="1" typeMem="1" log_expr="МПРД1&lt;6" name="НижеНормы" typeVar="0"/>
+                </States>
+            </element>
+            <element folded="0" fNoUse="0" type="0" comment="" name="МПРД2" fInherits="0">
+                <States>
+                    <node valq="1" typeMem="1" log_expr="(МПРД2>=6)&amp;(МПРД2&lt;=9)" name="Норма" typeVar="0"/>
+                    <node valq="1" typeMem="1" log_expr="МПРД2&lt;6" name="НижеНормы" typeVar="0"/>
+                    <node valq="1" typeMem="1" log_expr="МПРД2>9" name="ВышеНормы" typeVar="0"/>
+                </States>
+            </element>
+        </element>
+    </element>
+</XKnBase>

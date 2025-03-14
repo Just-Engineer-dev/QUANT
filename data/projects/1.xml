@@ -3,6 +3,8 @@
     <Forms expand="1">
         <Element startup="2" name="Quant"/>
     </Forms>
-    <Schems expand="0"/>
+    <Schems expand="1">
+        <Element startup="1" name="БЗ"/>
+    </Schems>
     <SubProjects expand="0"/>
 </Project>
