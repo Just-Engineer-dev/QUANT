@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TUW version="3.0" date="14.03.2025 15:27:14">
+<TUW version="3.0" date="16.03.2025 20:37:44">
     <object isMDI="0" type="6" name="Quant">
         <properties>
             <property templateName="" type="3" codeName="_FillColor_" name="цвет фона" code="1" colorRGBA="fff0f0f0"/>
             <property string="Quant" type="2" codeName="_Text_" name="заголовок" code="8"/>
             <property number="1088" type="0" codeName="_Notify_" name="события" code="11"/>
             <property number="1346" type="0" codeName="_Width_" name="ширина" code="23"/>
-            <property number="1243" type="0" codeName="_Height_" name="высота" code="24"/>
+            <property number="1255" type="0" codeName="_Height_" name="высота" code="24"/>
             <property number="1" type="5" codeName="_EditMoveble_" name="Edit Move" code="56"/>
             <property number="0" type="4" codeName="_LayoutType_" name="тип компоновщика" code="57"/>
             <property templateName="" type="3" codeName="_BlinkFillColor_" name="цвет мигания фона" code="102" colorRGBA="ff000000"/>
@@ -2123,8 +2123,8 @@
                 <property number="0" type="0" codeName="_Notify_" name="события" code="11"/>
                 <property number="4" type="4" codeName="_TextHAlign_" name="выравнивание по горизонтали" code="14"/>
                 <property number="128" type="4" codeName="_TextVAlign_" name="выравнивание по вертикали" code="15"/>
-                <property number="107" type="0" codeName="_X1_" name="X" code="21"/>
-                <property number="630" type="0" codeName="_Y1_" name="Y" code="22"/>
+                <property number="102" type="0" codeName="_X1_" name="X" code="21"/>
+                <property number="624" type="0" codeName="_Y1_" name="Y" code="22"/>
                 <property number="160" type="0" codeName="_Width_" name="ширина" code="23"/>
                 <property number="93" type="0" codeName="_Height_" name="высота" code="24"/>
                 <property number="1" type="5" codeName="_EditMoveble_" name="Edit Move" code="56"/>
@@ -2761,8 +2761,8 @@
                 <property number="0" type="0" codeName="_Notify_" name="события" code="11"/>
                 <property number="4" type="4" codeName="_TextHAlign_" name="выравнивание по горизонтали" code="14"/>
                 <property number="128" type="4" codeName="_TextVAlign_" name="выравнивание по вертикали" code="15"/>
-                <property number="1123" type="0" codeName="_X1_" name="X" code="21"/>
-                <property number="601" type="0" codeName="_Y1_" name="Y" code="22"/>
+                <property number="1121" type="0" codeName="_X1_" name="X" code="21"/>
+                <property number="598" type="0" codeName="_Y1_" name="Y" code="22"/>
                 <property number="160" type="0" codeName="_Width_" name="ширина" code="23"/>
                 <property number="93" type="0" codeName="_Height_" name="высота" code="24"/>
                 <property number="1" type="5" codeName="_EditMoveble_" name="Edit Move" code="56"/>
@@ -8996,9 +8996,9 @@
                 <property number="0" type="5" codeName="_Dim_" name="недоступность" code="3"/>
                 <property number="0" type="5" codeName="_Hide_" name="невидимость" code="4"/>
                 <property number="1" type="0" codeName="_Notify_" name="события" code="11"/>
-                <property number="76" type="0" codeName="_X1_" name="X" code="21"/>
-                <property number="832" type="0" codeName="_Y1_" name="Y" code="22"/>
-                <property number="262" type="0" codeName="_Width_" name="ширина" code="23"/>
+                <property number="133" type="0" codeName="_X1_" name="X" code="21"/>
+                <property number="831" type="0" codeName="_Y1_" name="Y" code="22"/>
+                <property number="219" type="0" codeName="_Width_" name="ширина" code="23"/>
                 <property number="34" type="0" codeName="_Height_" name="высота" code="24"/>
                 <property number="1" type="5" codeName="_EditMoveble_" name="Edit Move" code="56"/>
                 <property number="4" type="4" codeName="_LayoutType_" name="тип компоновщика" code="57"/>
@@ -9032,102 +9032,15 @@
             <object isMDI="0" type="47" name="Текст">
                 <properties>
                     <property templateName="" type="3" codeName="_FillColor_" name="цвет фона" code="1" colorRGBA="ffffffff"/>
-                    <property templateName="" type="3" codeName="_TextColor_" name="цвет текста" code="2" colorRGBA="ff000080"/>
-                    <property number="0" type="5" codeName="_Dim_" name="недоступность" code="3"/>
-                    <property number="0" type="5" codeName="_Hide_" name="невидимость" code="4"/>
-                    <property string="АРУ1" type="2" codeName="_Text_" name="текст" code="8"/>
-                    <property number="1" type="0" codeName="_Notify_" name="события" code="11"/>
-                    <property number="4" type="4" codeName="_TextHAlign_" name="выравнивание по горизонтали" code="14"/>
-                    <property number="5" type="0" codeName="_X1_" name="X" code="21"/>
-                    <property number="5" type="0" codeName="_Y1_" name="Y" code="22"/>
-                    <property number="56" type="0" codeName="_Width_" name="ширина" code="23"/>
-                    <property number="24" type="0" codeName="_Height_" name="высота" code="24"/>
-                    <property number="1" type="5" codeName="_EditMoveble_" name="Edit Move" code="56"/>
-                    <property templateName="" type="3" codeName="_FrameColor_" name="цвет рамки" code="105" colorRGBA="ff808080"/>
-                    <property number="1" type="0" codeName="_FrameWidth_" name="толщина" code="163"/>
-                    <property number="0" type="0" codeName="_IssPageId_" name="ссылка на ИСС" code="190"/>
-                    <property string="" type="2" codeName="_StatusBarText_" name="текст строки состояния" code="201"/>
-                    <property string="" type="2" codeName="_ToolTipText_" name="всплывающая подсказка" code="202"/>
-                    <property number="7" type="4" codeName="_HorizontalPolicy_" name="размер по горизонтали" code="212"/>
-                    <property number="7" type="4" codeName="_VerticalPolicy_" name="размер по вертикали" code="213"/>
-                    <property number="0" type="0" codeName="_HorizontalStretch_" name="растяжение по горизонтали" code="214"/>
-                    <property number="0" type="0" codeName="_VerticalStretch_" name="растяжение по вертикали" code="215"/>
-                    <property number="0" type="5" codeName="_FillBackgroundType_" name="использование градиента" code="216"/>
-                    <property templateName="" type="11" codeName="_FillGradient_" name="градиент" code="217">
-                        <gradient radius="0" spread="0" type="3" coordinatemode="0" angle="0">
-                            <start X="0" Y="0"/>
-                            <stop X="0" Y="0"/>
-                            <stops/>
-                        </gradient>
-                    </property>
-                    <property number="1" type="4" codeName="_HorizontalScrollBarState_" name="горизонтальная" code="313"/>
-                    <property number="1" type="4" codeName="_VerticalScrollBarState_" name="вертикальная" code="314"/>
-                    <property number="1" type="4" codeName="_FrameLineStyle_" name="тип линии(для плоской рамки)" code="324"/>
-                    <property type="6" codeName="_Font_" name="шрифт" code="351">
-                        <font strikeout="0" family="Tahoma" bold="0" pointsize="8" weight="50" underline="0" italic="0"/>
-                    </property>
-                    <property number="2" type="4" codeName="_Frame_" name="тип рамки" code="352"/>
-                    <property number="0" type="5" codeName="_FrameIn_" name="вдавленная" code="354"/>
-                    <property number="66919281" type="0" codeName="_IDIndex_" name="индекс" code="610"/>
-                    <property number="0" type="4" codeName="_Cursor_" name="курсор" code="628"/>
-                    <property number="16777215" type="0" codeName="_MaxWidth_" name="макс. ширина" code="652"/>
-                    <property number="16777215" type="0" codeName="_MaxHeight_" name="макс. высота" code="653"/>
-                    <property number="5" type="0" codeName="_MinWidth_" name="мин. ширина" code="654"/>
-                    <property number="5" type="0" codeName="_MinHeight_" name="мин. высота" code="655"/>
-                    <property number="0" type="5" codeName="_UsedStyle_" name="использовать стиль" code="656"/>
-                    <property string="" type="2" codeName="_NameStyle_" name="название стиля" code="657"/>
-                    <property number="0" type="5" codeName="_IsFocusFillColor_" name="менять фон" code="661"/>
-                    <property templateName="" type="3" codeName="_FocusFillColor_" name="фон" code="662" colorRGBA="fff0f0f0"/>
-                    <property number="0" type="5" codeName="_IsFocusTextColor_" name="менять текст" code="663"/>
-                    <property templateName="" type="3" codeName="_FocusTextColor_" name="текст" code="664" colorRGBA="ff000000"/>
-                    <property number="0" type="5" codeName="_IsFocusFrameColor_" name="менять рамку" code="665"/>
-                    <property templateName="" type="3" codeName="_FocusFrameColor_" name="рамка" code="666" colorRGBA="ff000000"/>
-                    <property number="0" type="5" codeName="_IsFocusFillGradient_" name="менять градиент" code="667"/>
-                    <property templateName="" type="11" codeName="_FocusFillGradient_" name="градиент" code="668">
-                        <gradient radius="0" spread="0" type="3" coordinatemode="0" angle="0">
-                            <start X="0" Y="0"/>
-                            <stop X="0" Y="0"/>
-                            <stops/>
-                        </gradient>
-                    </property>
-                    <property number="0" type="5" codeName="_IsHoverFillColor_" name="менять фон" code="670"/>
-                    <property templateName="" type="3" codeName="_HoverFillColor_" name="фон" code="671" colorRGBA="fff0f0f0"/>
-                    <property number="0" type="5" codeName="_IsHoverTextColor_" name="менять текст" code="672"/>
-                    <property templateName="" type="3" codeName="_HoverTextColor_" name="текст" code="673" colorRGBA="ff000000"/>
-                    <property number="0" type="5" codeName="_IsHoverFrameColor_" name="менять рамку" code="674"/>
-                    <property templateName="" type="3" codeName="_HoverFrameColor_" name="рамка" code="675" colorRGBA="ff000000"/>
-                    <property number="0" type="5" codeName="_IsHoverFillGradient_" name="менять градиент" code="676"/>
-                    <property templateName="" type="11" codeName="_HoverFillGradient_" name="градиент" code="677">
-                        <gradient radius="0" spread="0" type="3" coordinatemode="0" angle="0">
-                            <start X="0" Y="0"/>
-                            <stop X="0" Y="0"/>
-                            <stops/>
-                        </gradient>
-                    </property>
-                    <property templateName="" type="3" codeName="_DimFillColor_" name="фон" code="678" colorRGBA="ffc0c0c0"/>
-                    <property templateName="" type="3" codeName="_DimTextColor_" name="текст" code="679" colorRGBA="ff808080"/>
-                    <property templateName="" type="3" codeName="_DimFrameColor_" name="рамка" code="689" colorRGBA="ff808080"/>
-                    <property number="0" type="0" codeName="_HorizontalSliderPos_" name="положение горизонтального scroll'а" code="2051"/>
-                    <property number="0" type="0" codeName="_VerticalSliderPos_" name="положение вертикального scroll'а" code="2052"/>
-                    <property number="0" type="5" codeName="13000" name="отображать" code="13000"/>
-                    <property templateName="" type="3" codeName="13001" name="цвет" code="13001" colorRGBA="b43f3f3f"/>
-                    <property number="8" type="0" codeName="13002" name="отступ по х" code="13002"/>
-                    <property number="8" type="0" codeName="13003" name="отступ по у" code="13003"/>
-                    <property number="10" type="0" codeName="13004" name="размытие" code="13004"/>
-                </properties>
-            </object>
-            <object isMDI="0" type="47" name="Текст">
-                <properties>
-                    <property templateName="" type="3" codeName="_FillColor_" name="цвет фона" code="1" colorRGBA="ffffffff"/>
                     <property templateName="" type="3" codeName="_TextColor_" name="цвет текста" code="2" colorRGBA="ff000000"/>
                     <property number="0" type="5" codeName="_Dim_" name="недоступность" code="3"/>
                     <property number="0" type="5" codeName="_Hide_" name="невидимость" code="4"/>
                     <property string="-170" type="2" codeName="_Text_" name="текст" code="8"/>
                     <property number="1" type="0" codeName="_Notify_" name="события" code="11"/>
                     <property number="4" type="4" codeName="_TextHAlign_" name="выравнивание по горизонтали" code="14"/>
-                    <property number="66" type="0" codeName="_X1_" name="X" code="21"/>
+                    <property number="5" type="0" codeName="_X1_" name="X" code="21"/>
                     <property number="5" type="0" codeName="_Y1_" name="Y" code="22"/>
-                    <property number="55" type="0" codeName="_Width_" name="ширина" code="23"/>
+                    <property number="64" type="0" codeName="_Width_" name="ширина" code="23"/>
                     <property number="24" type="0" codeName="_Height_" name="высота" code="24"/>
                     <property number="1" type="5" codeName="_EditMoveble_" name="Edit Move" code="56"/>
                     <property templateName="" type="3" codeName="_FrameColor_" name="цвет рамки" code="105" colorRGBA="ff808080"/>
@@ -9213,7 +9126,7 @@
                     <property number="0" type="0" codeName="_Notify_" name="события" code="11"/>
                     <property number="4" type="4" codeName="_TextHAlign_" name="выравнивание по горизонтали" code="14"/>
                     <property number="128" type="4" codeName="_TextVAlign_" name="выравнивание по вертикали" code="15"/>
-                    <property number="126" type="0" codeName="_X1_" name="X" code="21"/>
+                    <property number="74" type="0" codeName="_X1_" name="X" code="21"/>
                     <property number="5" type="0" codeName="_Y1_" name="Y" code="22"/>
                     <property number="70" type="0" codeName="_Width_" name="ширина" code="23"/>
                     <property number="24" type="0" codeName="_Height_" name="высота" code="24"/>
@@ -9320,9 +9233,9 @@
                     <property string="-60" type="2" codeName="_Text_" name="текст" code="8"/>
                     <property number="1" type="0" codeName="_Notify_" name="события" code="11"/>
                     <property number="4" type="4" codeName="_TextHAlign_" name="выравнивание по горизонтали" code="14"/>
-                    <property number="201" type="0" codeName="_X1_" name="X" code="21"/>
+                    <property number="149" type="0" codeName="_X1_" name="X" code="21"/>
                     <property number="5" type="0" codeName="_Y1_" name="Y" code="22"/>
-                    <property number="56" type="0" codeName="_Width_" name="ширина" code="23"/>
+                    <property number="65" type="0" codeName="_Width_" name="ширина" code="23"/>
                     <property number="24" type="0" codeName="_Height_" name="высота" code="24"/>
                     <property number="1" type="5" codeName="_EditMoveble_" name="Edit Move" code="56"/>
                     <property templateName="" type="3" codeName="_FrameColor_" name="цвет рамки" code="105" colorRGBA="ff808080"/>
@@ -9404,9 +9317,9 @@
                 <property number="0" type="5" codeName="_Dim_" name="недоступность" code="3"/>
                 <property number="0" type="5" codeName="_Hide_" name="невидимость" code="4"/>
                 <property number="1" type="0" codeName="_Notify_" name="события" code="11"/>
-                <property number="458" type="0" codeName="_X1_" name="X" code="21"/>
+                <property number="499" type="0" codeName="_X1_" name="X" code="21"/>
                 <property number="833" type="0" codeName="_Y1_" name="Y" code="22"/>
-                <property number="262" type="0" codeName="_Width_" name="ширина" code="23"/>
+                <property number="221" type="0" codeName="_Width_" name="ширина" code="23"/>
                 <property number="34" type="0" codeName="_Height_" name="высота" code="24"/>
                 <property number="1" type="5" codeName="_EditMoveble_" name="Edit Move" code="56"/>
                 <property number="4" type="4" codeName="_LayoutType_" name="тип компоновщика" code="57"/>
@@ -9440,102 +9353,15 @@
             <object isMDI="0" type="47" name="Текст">
                 <properties>
                     <property templateName="" type="3" codeName="_FillColor_" name="цвет фона" code="1" colorRGBA="ffffffff"/>
-                    <property templateName="" type="3" codeName="_TextColor_" name="цвет текста" code="2" colorRGBA="ff000080"/>
-                    <property number="0" type="5" codeName="_Dim_" name="недоступность" code="3"/>
-                    <property number="0" type="5" codeName="_Hide_" name="невидимость" code="4"/>
-                    <property string="АРУ2" type="2" codeName="_Text_" name="текст" code="8"/>
-                    <property number="1" type="0" codeName="_Notify_" name="события" code="11"/>
-                    <property number="4" type="4" codeName="_TextHAlign_" name="выравнивание по горизонтали" code="14"/>
-                    <property number="5" type="0" codeName="_X1_" name="X" code="21"/>
-                    <property number="5" type="0" codeName="_Y1_" name="Y" code="22"/>
-                    <property number="56" type="0" codeName="_Width_" name="ширина" code="23"/>
-                    <property number="24" type="0" codeName="_Height_" name="высота" code="24"/>
-                    <property number="1" type="5" codeName="_EditMoveble_" name="Edit Move" code="56"/>
-                    <property templateName="" type="3" codeName="_FrameColor_" name="цвет рамки" code="105" colorRGBA="ff808080"/>
-                    <property number="1" type="0" codeName="_FrameWidth_" name="толщина" code="163"/>
-                    <property number="0" type="0" codeName="_IssPageId_" name="ссылка на ИСС" code="190"/>
-                    <property string="" type="2" codeName="_StatusBarText_" name="текст строки состояния" code="201"/>
-                    <property string="" type="2" codeName="_ToolTipText_" name="всплывающая подсказка" code="202"/>
-                    <property number="7" type="4" codeName="_HorizontalPolicy_" name="размер по горизонтали" code="212"/>
-                    <property number="7" type="4" codeName="_VerticalPolicy_" name="размер по вертикали" code="213"/>
-                    <property number="0" type="0" codeName="_HorizontalStretch_" name="растяжение по горизонтали" code="214"/>
-                    <property number="0" type="0" codeName="_VerticalStretch_" name="растяжение по вертикали" code="215"/>
-                    <property number="0" type="5" codeName="_FillBackgroundType_" name="использование градиента" code="216"/>
-                    <property templateName="" type="11" codeName="_FillGradient_" name="градиент" code="217">
-                        <gradient radius="0" spread="0" type="3" coordinatemode="0" angle="0">
-                            <start X="0" Y="0"/>
-                            <stop X="0" Y="0"/>
-                            <stops/>
-                        </gradient>
-                    </property>
-                    <property number="1" type="4" codeName="_HorizontalScrollBarState_" name="горизонтальная" code="313"/>
-                    <property number="1" type="4" codeName="_VerticalScrollBarState_" name="вертикальная" code="314"/>
-                    <property number="1" type="4" codeName="_FrameLineStyle_" name="тип линии(для плоской рамки)" code="324"/>
-                    <property type="6" codeName="_Font_" name="шрифт" code="351">
-                        <font strikeout="0" family="Tahoma" bold="0" pointsize="8" weight="50" underline="0" italic="0"/>
-                    </property>
-                    <property number="2" type="4" codeName="_Frame_" name="тип рамки" code="352"/>
-                    <property number="0" type="5" codeName="_FrameIn_" name="вдавленная" code="354"/>
-                    <property number="54527117" type="0" codeName="_IDIndex_" name="индекс" code="610"/>
-                    <property number="0" type="4" codeName="_Cursor_" name="курсор" code="628"/>
-                    <property number="16777215" type="0" codeName="_MaxWidth_" name="макс. ширина" code="652"/>
-                    <property number="16777215" type="0" codeName="_MaxHeight_" name="макс. высота" code="653"/>
-                    <property number="5" type="0" codeName="_MinWidth_" name="мин. ширина" code="654"/>
-                    <property number="5" type="0" codeName="_MinHeight_" name="мин. высота" code="655"/>
-                    <property number="0" type="5" codeName="_UsedStyle_" name="использовать стиль" code="656"/>
-                    <property string="" type="2" codeName="_NameStyle_" name="название стиля" code="657"/>
-                    <property number="0" type="5" codeName="_IsFocusFillColor_" name="менять фон" code="661"/>
-                    <property templateName="" type="3" codeName="_FocusFillColor_" name="фон" code="662" colorRGBA="fff0f0f0"/>
-                    <property number="0" type="5" codeName="_IsFocusTextColor_" name="менять текст" code="663"/>
-                    <property templateName="" type="3" codeName="_FocusTextColor_" name="текст" code="664" colorRGBA="ff000000"/>
-                    <property number="0" type="5" codeName="_IsFocusFrameColor_" name="менять рамку" code="665"/>
-                    <property templateName="" type="3" codeName="_FocusFrameColor_" name="рамка" code="666" colorRGBA="ff000000"/>
-                    <property number="0" type="5" codeName="_IsFocusFillGradient_" name="менять градиент" code="667"/>
-                    <property templateName="" type="11" codeName="_FocusFillGradient_" name="градиент" code="668">
-                        <gradient radius="0" spread="0" type="3" coordinatemode="0" angle="0">
-                            <start X="0" Y="0"/>
-                            <stop X="0" Y="0"/>
-                            <stops/>
-                        </gradient>
-                    </property>
-                    <property number="0" type="5" codeName="_IsHoverFillColor_" name="менять фон" code="670"/>
-                    <property templateName="" type="3" codeName="_HoverFillColor_" name="фон" code="671" colorRGBA="fff0f0f0"/>
-                    <property number="0" type="5" codeName="_IsHoverTextColor_" name="менять текст" code="672"/>
-                    <property templateName="" type="3" codeName="_HoverTextColor_" name="текст" code="673" colorRGBA="ff000000"/>
-                    <property number="0" type="5" codeName="_IsHoverFrameColor_" name="менять рамку" code="674"/>
-                    <property templateName="" type="3" codeName="_HoverFrameColor_" name="рамка" code="675" colorRGBA="ff000000"/>
-                    <property number="0" type="5" codeName="_IsHoverFillGradient_" name="менять градиент" code="676"/>
-                    <property templateName="" type="11" codeName="_HoverFillGradient_" name="градиент" code="677">
-                        <gradient radius="0" spread="0" type="3" coordinatemode="0" angle="0">
-                            <start X="0" Y="0"/>
-                            <stop X="0" Y="0"/>
-                            <stops/>
-                        </gradient>
-                    </property>
-                    <property templateName="" type="3" codeName="_DimFillColor_" name="фон" code="678" colorRGBA="ffc0c0c0"/>
-                    <property templateName="" type="3" codeName="_DimTextColor_" name="текст" code="679" colorRGBA="ff808080"/>
-                    <property templateName="" type="3" codeName="_DimFrameColor_" name="рамка" code="689" colorRGBA="ff808080"/>
-                    <property number="0" type="0" codeName="_HorizontalSliderPos_" name="положение горизонтального scroll'а" code="2051"/>
-                    <property number="0" type="0" codeName="_VerticalSliderPos_" name="положение вертикального scroll'а" code="2052"/>
-                    <property number="0" type="5" codeName="13000" name="отображать" code="13000"/>
-                    <property templateName="" type="3" codeName="13001" name="цвет" code="13001" colorRGBA="b43f3f3f"/>
-                    <property number="8" type="0" codeName="13002" name="отступ по х" code="13002"/>
-                    <property number="8" type="0" codeName="13003" name="отступ по у" code="13003"/>
-                    <property number="10" type="0" codeName="13004" name="размытие" code="13004"/>
-                </properties>
-            </object>
-            <object isMDI="0" type="47" name="Текст">
-                <properties>
-                    <property templateName="" type="3" codeName="_FillColor_" name="цвет фона" code="1" colorRGBA="ffffffff"/>
                     <property templateName="" type="3" codeName="_TextColor_" name="цвет текста" code="2" colorRGBA="ff000000"/>
                     <property number="0" type="5" codeName="_Dim_" name="недоступность" code="3"/>
                     <property number="0" type="5" codeName="_Hide_" name="невидимость" code="4"/>
                     <property string="-170" type="2" codeName="_Text_" name="текст" code="8"/>
                     <property number="1" type="0" codeName="_Notify_" name="события" code="11"/>
                     <property number="4" type="4" codeName="_TextHAlign_" name="выравнивание по горизонтали" code="14"/>
-                    <property number="66" type="0" codeName="_X1_" name="X" code="21"/>
+                    <property number="5" type="0" codeName="_X1_" name="X" code="21"/>
                     <property number="5" type="0" codeName="_Y1_" name="Y" code="22"/>
-                    <property number="55" type="0" codeName="_Width_" name="ширина" code="23"/>
+                    <property number="65" type="0" codeName="_Width_" name="ширина" code="23"/>
                     <property number="24" type="0" codeName="_Height_" name="высота" code="24"/>
                     <property number="1" type="5" codeName="_EditMoveble_" name="Edit Move" code="56"/>
                     <property templateName="" type="3" codeName="_FrameColor_" name="цвет рамки" code="105" colorRGBA="ff808080"/>
@@ -9621,7 +9447,7 @@
                     <property number="0" type="0" codeName="_Notify_" name="события" code="11"/>
                     <property number="4" type="4" codeName="_TextHAlign_" name="выравнивание по горизонтали" code="14"/>
                     <property number="128" type="4" codeName="_TextVAlign_" name="выравнивание по вертикали" code="15"/>
-                    <property number="126" type="0" codeName="_X1_" name="X" code="21"/>
+                    <property number="75" type="0" codeName="_X1_" name="X" code="21"/>
                     <property number="5" type="0" codeName="_Y1_" name="Y" code="22"/>
                     <property number="70" type="0" codeName="_Width_" name="ширина" code="23"/>
                     <property number="24" type="0" codeName="_Height_" name="высота" code="24"/>
@@ -9728,9 +9554,9 @@
                     <property string="-60" type="2" codeName="_Text_" name="текст" code="8"/>
                     <property number="1" type="0" codeName="_Notify_" name="события" code="11"/>
                     <property number="4" type="4" codeName="_TextHAlign_" name="выравнивание по горизонтали" code="14"/>
-                    <property number="201" type="0" codeName="_X1_" name="X" code="21"/>
+                    <property number="150" type="0" codeName="_X1_" name="X" code="21"/>
                     <property number="5" type="0" codeName="_Y1_" name="Y" code="22"/>
-                    <property number="56" type="0" codeName="_Width_" name="ширина" code="23"/>
+                    <property number="66" type="0" codeName="_Width_" name="ширина" code="23"/>
                     <property number="24" type="0" codeName="_Height_" name="высота" code="24"/>
                     <property number="1" type="5" codeName="_EditMoveble_" name="Edit Move" code="56"/>
                     <property templateName="" type="3" codeName="_FrameColor_" name="цвет рамки" code="105" colorRGBA="ff808080"/>
@@ -9812,9 +9638,9 @@
                 <property number="0" type="5" codeName="_Dim_" name="недоступность" code="3"/>
                 <property number="0" type="5" codeName="_Hide_" name="невидимость" code="4"/>
                 <property number="1" type="0" codeName="_Notify_" name="события" code="11"/>
-                <property number="748" type="0" codeName="_X1_" name="X" code="21"/>
-                <property number="833" type="0" codeName="_Y1_" name="Y" code="22"/>
-                <property number="262" type="0" codeName="_Width_" name="ширина" code="23"/>
+                <property number="846" type="0" codeName="_X1_" name="X" code="21"/>
+                <property number="832" type="0" codeName="_Y1_" name="Y" code="22"/>
+                <property number="198" type="0" codeName="_Width_" name="ширина" code="23"/>
                 <property number="34" type="0" codeName="_Height_" name="высота" code="24"/>
                 <property number="1" type="5" codeName="_EditMoveble_" name="Edit Move" code="56"/>
                 <property number="4" type="4" codeName="_LayoutType_" name="тип компоновщика" code="57"/>
@@ -9848,102 +9674,15 @@
             <object isMDI="0" type="47" name="Текст">
                 <properties>
                     <property templateName="" type="3" codeName="_FillColor_" name="цвет фона" code="1" colorRGBA="ffffffff"/>
-                    <property templateName="" type="3" codeName="_TextColor_" name="цвет текста" code="2" colorRGBA="ff000080"/>
-                    <property number="0" type="5" codeName="_Dim_" name="недоступность" code="3"/>
-                    <property number="0" type="5" codeName="_Hide_" name="невидимость" code="4"/>
-                    <property string="МПРД1" type="2" codeName="_Text_" name="текст" code="8"/>
-                    <property number="1" type="0" codeName="_Notify_" name="события" code="11"/>
-                    <property number="4" type="4" codeName="_TextHAlign_" name="выравнивание по горизонтали" code="14"/>
-                    <property number="5" type="0" codeName="_X1_" name="X" code="21"/>
-                    <property number="5" type="0" codeName="_Y1_" name="Y" code="22"/>
-                    <property number="56" type="0" codeName="_Width_" name="ширина" code="23"/>
-                    <property number="24" type="0" codeName="_Height_" name="высота" code="24"/>
-                    <property number="1" type="5" codeName="_EditMoveble_" name="Edit Move" code="56"/>
-                    <property templateName="" type="3" codeName="_FrameColor_" name="цвет рамки" code="105" colorRGBA="ff808080"/>
-                    <property number="1" type="0" codeName="_FrameWidth_" name="толщина" code="163"/>
-                    <property number="0" type="0" codeName="_IssPageId_" name="ссылка на ИСС" code="190"/>
-                    <property string="" type="2" codeName="_StatusBarText_" name="текст строки состояния" code="201"/>
-                    <property string="" type="2" codeName="_ToolTipText_" name="всплывающая подсказка" code="202"/>
-                    <property number="7" type="4" codeName="_HorizontalPolicy_" name="размер по горизонтали" code="212"/>
-                    <property number="7" type="4" codeName="_VerticalPolicy_" name="размер по вертикали" code="213"/>
-                    <property number="0" type="0" codeName="_HorizontalStretch_" name="растяжение по горизонтали" code="214"/>
-                    <property number="0" type="0" codeName="_VerticalStretch_" name="растяжение по вертикали" code="215"/>
-                    <property number="0" type="5" codeName="_FillBackgroundType_" name="использование градиента" code="216"/>
-                    <property templateName="" type="11" codeName="_FillGradient_" name="градиент" code="217">
-                        <gradient radius="0" spread="0" type="3" coordinatemode="0" angle="0">
-                            <start X="0" Y="0"/>
-                            <stop X="0" Y="0"/>
-                            <stops/>
-                        </gradient>
-                    </property>
-                    <property number="1" type="4" codeName="_HorizontalScrollBarState_" name="горизонтальная" code="313"/>
-                    <property number="1" type="4" codeName="_VerticalScrollBarState_" name="вертикальная" code="314"/>
-                    <property number="1" type="4" codeName="_FrameLineStyle_" name="тип линии(для плоской рамки)" code="324"/>
-                    <property type="6" codeName="_Font_" name="шрифт" code="351">
-                        <font strikeout="0" family="Tahoma" bold="0" pointsize="8" weight="50" underline="0" italic="0"/>
-                    </property>
-                    <property number="2" type="4" codeName="_Frame_" name="тип рамки" code="352"/>
-                    <property number="0" type="5" codeName="_FrameIn_" name="вдавленная" code="354"/>
-                    <property number="54671314" type="0" codeName="_IDIndex_" name="индекс" code="610"/>
-                    <property number="0" type="4" codeName="_Cursor_" name="курсор" code="628"/>
-                    <property number="16777215" type="0" codeName="_MaxWidth_" name="макс. ширина" code="652"/>
-                    <property number="16777215" type="0" codeName="_MaxHeight_" name="макс. высота" code="653"/>
-                    <property number="5" type="0" codeName="_MinWidth_" name="мин. ширина" code="654"/>
-                    <property number="5" type="0" codeName="_MinHeight_" name="мин. высота" code="655"/>
-                    <property number="0" type="5" codeName="_UsedStyle_" name="использовать стиль" code="656"/>
-                    <property string="" type="2" codeName="_NameStyle_" name="название стиля" code="657"/>
-                    <property number="0" type="5" codeName="_IsFocusFillColor_" name="менять фон" code="661"/>
-                    <property templateName="" type="3" codeName="_FocusFillColor_" name="фон" code="662" colorRGBA="fff0f0f0"/>
-                    <property number="0" type="5" codeName="_IsFocusTextColor_" name="менять текст" code="663"/>
-                    <property templateName="" type="3" codeName="_FocusTextColor_" name="текст" code="664" colorRGBA="ff000000"/>
-                    <property number="0" type="5" codeName="_IsFocusFrameColor_" name="менять рамку" code="665"/>
-                    <property templateName="" type="3" codeName="_FocusFrameColor_" name="рамка" code="666" colorRGBA="ff000000"/>
-                    <property number="0" type="5" codeName="_IsFocusFillGradient_" name="менять градиент" code="667"/>
-                    <property templateName="" type="11" codeName="_FocusFillGradient_" name="градиент" code="668">
-                        <gradient radius="0" spread="0" type="3" coordinatemode="0" angle="0">
-                            <start X="0" Y="0"/>
-                            <stop X="0" Y="0"/>
-                            <stops/>
-                        </gradient>
-                    </property>
-                    <property number="0" type="5" codeName="_IsHoverFillColor_" name="менять фон" code="670"/>
-                    <property templateName="" type="3" codeName="_HoverFillColor_" name="фон" code="671" colorRGBA="fff0f0f0"/>
-                    <property number="0" type="5" codeName="_IsHoverTextColor_" name="менять текст" code="672"/>
-                    <property templateName="" type="3" codeName="_HoverTextColor_" name="текст" code="673" colorRGBA="ff000000"/>
-                    <property number="0" type="5" codeName="_IsHoverFrameColor_" name="менять рамку" code="674"/>
-                    <property templateName="" type="3" codeName="_HoverFrameColor_" name="рамка" code="675" colorRGBA="ff000000"/>
-                    <property number="0" type="5" codeName="_IsHoverFillGradient_" name="менять градиент" code="676"/>
-                    <property templateName="" type="11" codeName="_HoverFillGradient_" name="градиент" code="677">
-                        <gradient radius="0" spread="0" type="3" coordinatemode="0" angle="0">
-                            <start X="0" Y="0"/>
-                            <stop X="0" Y="0"/>
-                            <stops/>
-                        </gradient>
-                    </property>
-                    <property templateName="" type="3" codeName="_DimFillColor_" name="фон" code="678" colorRGBA="ffc0c0c0"/>
-                    <property templateName="" type="3" codeName="_DimTextColor_" name="текст" code="679" colorRGBA="ff808080"/>
-                    <property templateName="" type="3" codeName="_DimFrameColor_" name="рамка" code="689" colorRGBA="ff808080"/>
-                    <property number="0" type="0" codeName="_HorizontalSliderPos_" name="положение горизонтального scroll'а" code="2051"/>
-                    <property number="0" type="0" codeName="_VerticalSliderPos_" name="положение вертикального scroll'а" code="2052"/>
-                    <property number="0" type="5" codeName="13000" name="отображать" code="13000"/>
-                    <property templateName="" type="3" codeName="13001" name="цвет" code="13001" colorRGBA="b43f3f3f"/>
-                    <property number="8" type="0" codeName="13002" name="отступ по х" code="13002"/>
-                    <property number="8" type="0" codeName="13003" name="отступ по у" code="13003"/>
-                    <property number="10" type="0" codeName="13004" name="размытие" code="13004"/>
-                </properties>
-            </object>
-            <object isMDI="0" type="47" name="Текст">
-                <properties>
-                    <property templateName="" type="3" codeName="_FillColor_" name="цвет фона" code="1" colorRGBA="ffffffff"/>
                     <property templateName="" type="3" codeName="_TextColor_" name="цвет текста" code="2" colorRGBA="ff000000"/>
                     <property number="0" type="5" codeName="_Dim_" name="недоступность" code="3"/>
                     <property number="0" type="5" codeName="_Hide_" name="невидимость" code="4"/>
                     <property string="6" type="2" codeName="_Text_" name="текст" code="8"/>
                     <property number="1" type="0" codeName="_Notify_" name="события" code="11"/>
                     <property number="4" type="4" codeName="_TextHAlign_" name="выравнивание по горизонтали" code="14"/>
-                    <property number="66" type="0" codeName="_X1_" name="X" code="21"/>
+                    <property number="5" type="0" codeName="_X1_" name="X" code="21"/>
                     <property number="5" type="0" codeName="_Y1_" name="Y" code="22"/>
-                    <property number="55" type="0" codeName="_Width_" name="ширина" code="23"/>
+                    <property number="54" type="0" codeName="_Width_" name="ширина" code="23"/>
                     <property number="24" type="0" codeName="_Height_" name="высота" code="24"/>
                     <property number="1" type="5" codeName="_EditMoveble_" name="Edit Move" code="56"/>
                     <property templateName="" type="3" codeName="_FrameColor_" name="цвет рамки" code="105" colorRGBA="ff808080"/>
@@ -10029,7 +9768,7 @@
                     <property number="0" type="0" codeName="_Notify_" name="события" code="11"/>
                     <property number="4" type="4" codeName="_TextHAlign_" name="выравнивание по горизонтали" code="14"/>
                     <property number="128" type="4" codeName="_TextVAlign_" name="выравнивание по вертикали" code="15"/>
-                    <property number="126" type="0" codeName="_X1_" name="X" code="21"/>
+                    <property number="64" type="0" codeName="_X1_" name="X" code="21"/>
                     <property number="5" type="0" codeName="_Y1_" name="Y" code="22"/>
                     <property number="70" type="0" codeName="_Width_" name="ширина" code="23"/>
                     <property number="24" type="0" codeName="_Height_" name="высота" code="24"/>
@@ -10136,9 +9875,9 @@
                     <property string="9" type="2" codeName="_Text_" name="текст" code="8"/>
                     <property number="1" type="0" codeName="_Notify_" name="события" code="11"/>
                     <property number="4" type="4" codeName="_TextHAlign_" name="выравнивание по горизонтали" code="14"/>
-                    <property number="201" type="0" codeName="_X1_" name="X" code="21"/>
+                    <property number="139" type="0" codeName="_X1_" name="X" code="21"/>
                     <property number="5" type="0" codeName="_Y1_" name="Y" code="22"/>
-                    <property number="56" type="0" codeName="_Width_" name="ширина" code="23"/>
+                    <property number="54" type="0" codeName="_Width_" name="ширина" code="23"/>
                     <property number="24" type="0" codeName="_Height_" name="высота" code="24"/>
                     <property number="1" type="5" codeName="_EditMoveble_" name="Edit Move" code="56"/>
                     <property templateName="" type="3" codeName="_FrameColor_" name="цвет рамки" code="105" colorRGBA="ff808080"/>
@@ -10220,10 +9959,10 @@
                 <property number="0" type="5" codeName="_Dim_" name="недоступность" code="3"/>
                 <property number="0" type="5" codeName="_Hide_" name="невидимость" code="4"/>
                 <property number="1" type="0" codeName="_Notify_" name="события" code="11"/>
-                <property number="1074" type="0" codeName="_X1_" name="X" code="21"/>
-                <property number="832" type="0" codeName="_Y1_" name="Y" code="22"/>
-                <property number="262" type="0" codeName="_Width_" name="ширина" code="23"/>
-                <property number="34" type="0" codeName="_Height_" name="высота" code="24"/>
+                <property number="1147" type="0" codeName="_X1_" name="X" code="21"/>
+                <property number="834" type="0" codeName="_Y1_" name="Y" code="22"/>
+                <property number="191" type="0" codeName="_Width_" name="ширина" code="23"/>
+                <property number="35" type="0" codeName="_Height_" name="высота" code="24"/>
                 <property number="1" type="5" codeName="_EditMoveble_" name="Edit Move" code="56"/>
                 <property number="4" type="4" codeName="_LayoutType_" name="тип компоновщика" code="57"/>
                 <property number="0" type="0" codeName="_IssPageId_" name="ссылка на ИСС" code="190"/>
@@ -10256,103 +9995,16 @@
             <object isMDI="0" type="47" name="Текст">
                 <properties>
                     <property templateName="" type="3" codeName="_FillColor_" name="цвет фона" code="1" colorRGBA="ffffffff"/>
-                    <property templateName="" type="3" codeName="_TextColor_" name="цвет текста" code="2" colorRGBA="ff000080"/>
-                    <property number="0" type="5" codeName="_Dim_" name="недоступность" code="3"/>
-                    <property number="0" type="5" codeName="_Hide_" name="невидимость" code="4"/>
-                    <property string="МПРД2" type="2" codeName="_Text_" name="текст" code="8"/>
-                    <property number="1" type="0" codeName="_Notify_" name="события" code="11"/>
-                    <property number="4" type="4" codeName="_TextHAlign_" name="выравнивание по горизонтали" code="14"/>
-                    <property number="5" type="0" codeName="_X1_" name="X" code="21"/>
-                    <property number="5" type="0" codeName="_Y1_" name="Y" code="22"/>
-                    <property number="56" type="0" codeName="_Width_" name="ширина" code="23"/>
-                    <property number="24" type="0" codeName="_Height_" name="высота" code="24"/>
-                    <property number="1" type="5" codeName="_EditMoveble_" name="Edit Move" code="56"/>
-                    <property templateName="" type="3" codeName="_FrameColor_" name="цвет рамки" code="105" colorRGBA="ff808080"/>
-                    <property number="1" type="0" codeName="_FrameWidth_" name="толщина" code="163"/>
-                    <property number="0" type="0" codeName="_IssPageId_" name="ссылка на ИСС" code="190"/>
-                    <property string="" type="2" codeName="_StatusBarText_" name="текст строки состояния" code="201"/>
-                    <property string="" type="2" codeName="_ToolTipText_" name="всплывающая подсказка" code="202"/>
-                    <property number="7" type="4" codeName="_HorizontalPolicy_" name="размер по горизонтали" code="212"/>
-                    <property number="7" type="4" codeName="_VerticalPolicy_" name="размер по вертикали" code="213"/>
-                    <property number="0" type="0" codeName="_HorizontalStretch_" name="растяжение по горизонтали" code="214"/>
-                    <property number="0" type="0" codeName="_VerticalStretch_" name="растяжение по вертикали" code="215"/>
-                    <property number="0" type="5" codeName="_FillBackgroundType_" name="использование градиента" code="216"/>
-                    <property templateName="" type="11" codeName="_FillGradient_" name="градиент" code="217">
-                        <gradient radius="0" spread="0" type="3" coordinatemode="0" angle="0">
-                            <start X="0" Y="0"/>
-                            <stop X="0" Y="0"/>
-                            <stops/>
-                        </gradient>
-                    </property>
-                    <property number="1" type="4" codeName="_HorizontalScrollBarState_" name="горизонтальная" code="313"/>
-                    <property number="1" type="4" codeName="_VerticalScrollBarState_" name="вертикальная" code="314"/>
-                    <property number="1" type="4" codeName="_FrameLineStyle_" name="тип линии(для плоской рамки)" code="324"/>
-                    <property type="6" codeName="_Font_" name="шрифт" code="351">
-                        <font strikeout="0" family="Tahoma" bold="0" pointsize="8" weight="50" underline="0" italic="0"/>
-                    </property>
-                    <property number="2" type="4" codeName="_Frame_" name="тип рамки" code="352"/>
-                    <property number="0" type="5" codeName="_FrameIn_" name="вдавленная" code="354"/>
-                    <property number="54672324" type="0" codeName="_IDIndex_" name="индекс" code="610"/>
-                    <property number="0" type="4" codeName="_Cursor_" name="курсор" code="628"/>
-                    <property number="16777215" type="0" codeName="_MaxWidth_" name="макс. ширина" code="652"/>
-                    <property number="16777215" type="0" codeName="_MaxHeight_" name="макс. высота" code="653"/>
-                    <property number="5" type="0" codeName="_MinWidth_" name="мин. ширина" code="654"/>
-                    <property number="5" type="0" codeName="_MinHeight_" name="мин. высота" code="655"/>
-                    <property number="0" type="5" codeName="_UsedStyle_" name="использовать стиль" code="656"/>
-                    <property string="" type="2" codeName="_NameStyle_" name="название стиля" code="657"/>
-                    <property number="0" type="5" codeName="_IsFocusFillColor_" name="менять фон" code="661"/>
-                    <property templateName="" type="3" codeName="_FocusFillColor_" name="фон" code="662" colorRGBA="fff0f0f0"/>
-                    <property number="0" type="5" codeName="_IsFocusTextColor_" name="менять текст" code="663"/>
-                    <property templateName="" type="3" codeName="_FocusTextColor_" name="текст" code="664" colorRGBA="ff000000"/>
-                    <property number="0" type="5" codeName="_IsFocusFrameColor_" name="менять рамку" code="665"/>
-                    <property templateName="" type="3" codeName="_FocusFrameColor_" name="рамка" code="666" colorRGBA="ff000000"/>
-                    <property number="0" type="5" codeName="_IsFocusFillGradient_" name="менять градиент" code="667"/>
-                    <property templateName="" type="11" codeName="_FocusFillGradient_" name="градиент" code="668">
-                        <gradient radius="0" spread="0" type="3" coordinatemode="0" angle="0">
-                            <start X="0" Y="0"/>
-                            <stop X="0" Y="0"/>
-                            <stops/>
-                        </gradient>
-                    </property>
-                    <property number="0" type="5" codeName="_IsHoverFillColor_" name="менять фон" code="670"/>
-                    <property templateName="" type="3" codeName="_HoverFillColor_" name="фон" code="671" colorRGBA="fff0f0f0"/>
-                    <property number="0" type="5" codeName="_IsHoverTextColor_" name="менять текст" code="672"/>
-                    <property templateName="" type="3" codeName="_HoverTextColor_" name="текст" code="673" colorRGBA="ff000000"/>
-                    <property number="0" type="5" codeName="_IsHoverFrameColor_" name="менять рамку" code="674"/>
-                    <property templateName="" type="3" codeName="_HoverFrameColor_" name="рамка" code="675" colorRGBA="ff000000"/>
-                    <property number="0" type="5" codeName="_IsHoverFillGradient_" name="менять градиент" code="676"/>
-                    <property templateName="" type="11" codeName="_HoverFillGradient_" name="градиент" code="677">
-                        <gradient radius="0" spread="0" type="3" coordinatemode="0" angle="0">
-                            <start X="0" Y="0"/>
-                            <stop X="0" Y="0"/>
-                            <stops/>
-                        </gradient>
-                    </property>
-                    <property templateName="" type="3" codeName="_DimFillColor_" name="фон" code="678" colorRGBA="ffc0c0c0"/>
-                    <property templateName="" type="3" codeName="_DimTextColor_" name="текст" code="679" colorRGBA="ff808080"/>
-                    <property templateName="" type="3" codeName="_DimFrameColor_" name="рамка" code="689" colorRGBA="ff808080"/>
-                    <property number="0" type="0" codeName="_HorizontalSliderPos_" name="положение горизонтального scroll'а" code="2051"/>
-                    <property number="0" type="0" codeName="_VerticalSliderPos_" name="положение вертикального scroll'а" code="2052"/>
-                    <property number="0" type="5" codeName="13000" name="отображать" code="13000"/>
-                    <property templateName="" type="3" codeName="13001" name="цвет" code="13001" colorRGBA="b43f3f3f"/>
-                    <property number="8" type="0" codeName="13002" name="отступ по х" code="13002"/>
-                    <property number="8" type="0" codeName="13003" name="отступ по у" code="13003"/>
-                    <property number="10" type="0" codeName="13004" name="размытие" code="13004"/>
-                </properties>
-            </object>
-            <object isMDI="0" type="47" name="Текст">
-                <properties>
-                    <property templateName="" type="3" codeName="_FillColor_" name="цвет фона" code="1" colorRGBA="ffffffff"/>
                     <property templateName="" type="3" codeName="_TextColor_" name="цвет текста" code="2" colorRGBA="ff000000"/>
                     <property number="0" type="5" codeName="_Dim_" name="недоступность" code="3"/>
                     <property number="0" type="5" codeName="_Hide_" name="невидимость" code="4"/>
                     <property string="6" type="2" codeName="_Text_" name="текст" code="8"/>
                     <property number="1" type="0" codeName="_Notify_" name="события" code="11"/>
                     <property number="4" type="4" codeName="_TextHAlign_" name="выравнивание по горизонтали" code="14"/>
-                    <property number="66" type="0" codeName="_X1_" name="X" code="21"/>
+                    <property number="5" type="0" codeName="_X1_" name="X" code="21"/>
                     <property number="5" type="0" codeName="_Y1_" name="Y" code="22"/>
-                    <property number="55" type="0" codeName="_Width_" name="ширина" code="23"/>
-                    <property number="24" type="0" codeName="_Height_" name="высота" code="24"/>
+                    <property number="50" type="0" codeName="_Width_" name="ширина" code="23"/>
+                    <property number="25" type="0" codeName="_Height_" name="высота" code="24"/>
                     <property number="1" type="5" codeName="_EditMoveble_" name="Edit Move" code="56"/>
                     <property templateName="" type="3" codeName="_FrameColor_" name="цвет рамки" code="105" colorRGBA="ff808080"/>
                     <property number="1" type="0" codeName="_FrameWidth_" name="толщина" code="163"/>
@@ -10437,7 +10089,7 @@
                     <property number="0" type="0" codeName="_Notify_" name="события" code="11"/>
                     <property number="4" type="4" codeName="_TextHAlign_" name="выравнивание по горизонтали" code="14"/>
                     <property number="128" type="4" codeName="_TextVAlign_" name="выравнивание по вертикали" code="15"/>
-                    <property number="126" type="0" codeName="_X1_" name="X" code="21"/>
+                    <property number="60" type="0" codeName="_X1_" name="X" code="21"/>
                     <property number="5" type="0" codeName="_Y1_" name="Y" code="22"/>
                     <property number="70" type="0" codeName="_Width_" name="ширина" code="23"/>
                     <property number="24" type="0" codeName="_Height_" name="высота" code="24"/>
@@ -10544,10 +10196,10 @@
                     <property string="9" type="2" codeName="_Text_" name="текст" code="8"/>
                     <property number="1" type="0" codeName="_Notify_" name="события" code="11"/>
                     <property number="4" type="4" codeName="_TextHAlign_" name="выравнивание по горизонтали" code="14"/>
-                    <property number="201" type="0" codeName="_X1_" name="X" code="21"/>
+                    <property number="135" type="0" codeName="_X1_" name="X" code="21"/>
                     <property number="5" type="0" codeName="_Y1_" name="Y" code="22"/>
-                    <property number="56" type="0" codeName="_Width_" name="ширина" code="23"/>
-                    <property number="24" type="0" codeName="_Height_" name="высота" code="24"/>
+                    <property number="51" type="0" codeName="_Width_" name="ширина" code="23"/>
+                    <property number="25" type="0" codeName="_Height_" name="высота" code="24"/>
                     <property number="1" type="5" codeName="_EditMoveble_" name="Edit Move" code="56"/>
                     <property templateName="" type="3" codeName="_FrameColor_" name="цвет рамки" code="105" colorRGBA="ff808080"/>
                     <property number="1" type="0" codeName="_FrameWidth_" name="толщина" code="163"/>
@@ -10729,6 +10381,522 @@
                 <property number="8" type="0" codeName="13002" name="отступ по х" code="13002"/>
                 <property number="8" type="0" codeName="13003" name="отступ по у" code="13003"/>
                 <property number="10" type="0" codeName="13004" name="размытие" code="13004"/>
+            </properties>
+        </object>
+        <object isMDI="0" type="2" name="АРУ1">
+            <properties>
+                <property templateName="" type="3" codeName="_TextColor_" name="цвет текста" code="2" colorRGBA="ff000000"/>
+                <property number="0" type="5" codeName="_Dim_" name="недоступность" code="3"/>
+                <property number="0" type="5" codeName="_Hide_" name="невидимость" code="4"/>
+                <property number="0" type="5" codeName="_State_" name="нажата" code="6"/>
+                <property string="АРУ1" type="2" codeName="_Text_" name="текст" code="8"/>
+                <property number="65" type="0" codeName="_Notify_" name="события" code="11"/>
+                <property number="4" type="4" codeName="_TextHAlign_" name="выравнивание по горизонтали" code="14"/>
+                <property number="128" type="4" codeName="_TextVAlign_" name="выравнивание по вертикали" code="15"/>
+                <property number="49" type="0" codeName="_X1_" name="X" code="21"/>
+                <property number="834" type="0" codeName="_Y1_" name="Y" code="22"/>
+                <property number="80" type="0" codeName="_Width_" name="ширина" code="23"/>
+                <property number="25" type="0" codeName="_Height_" name="высота" code="24"/>
+                <property templateName="" type="3" codeName="_BlinkTextColor_" name="цвет мигания текста" code="39" colorRGBA="ff000000"/>
+                <property number="1" type="5" codeName="_EditMoveble_" name="Edit Move" code="56"/>
+                <property number="0" type="4" codeName="_LayoutType_" name="тип компоновщика" code="57"/>
+                <property templateName="" type="3" codeName="_InFillColor_" name="цвет фона" code="100" colorRGBA="fff0f0f0"/>
+                <property templateName="" type="3" codeName="_OutFillColor_" name="цвет фона" code="101" colorRGBA="fff0f0f0"/>
+                <property templateName="" type="3" codeName="_BlinkFillColor_" name="цвет мигания фона" code="102" colorRGBA="ff000000"/>
+                <property templateName="" type="3" codeName="_InTextColor_" name="цвет текста" code="103" colorRGBA="ff000000"/>
+                <property templateName="" type="3" codeName="_OutTextColor_" name="цвет текста" code="104" colorRGBA="ff000000"/>
+                <property templateName="" type="3" codeName="_FrameColor_" name="цвет рамки" code="105" colorRGBA="ff000000"/>
+                <property templateName="" type="3" codeName="_BlinkFrameColor_" name="цвет мигания границы" code="106" colorRGBA="ff000000"/>
+                <property number="0" type="0" codeName="_TextAngle_" name="угол наклона" code="150"/>
+                <property number="2" type="0" codeName="_FrameWidth_" name="толщина" code="163"/>
+                <property number="0" type="5" codeName="_IsBlinkTextColor_" name="флаг включения мигания текста" code="168"/>
+                <property number="0" type="5" codeName="_IsBlinkFillColor_" name="флаг включения мигания фона" code="169"/>
+                <property number="0" type="5" codeName="_IsBlinkFrameColor_" name="флаг включения мигания границы" code="170"/>
+                <property number="0" type="0" codeName="_IssPageId_" name="ссылка на ИСС" code="190"/>
+                <property string="" type="2" codeName="_StatusBarText_" name="текст строки состояния" code="201"/>
+                <property string="" type="2" codeName="_ToolTipText_" name="всплывающая подсказка" code="202"/>
+                <property string="" type="2" codeName="_InText_" name="текст" code="203"/>
+                <property string="АРУ1" type="2" codeName="_OutText_" name="текст" code="204"/>
+                <property string="" type="2" codeName="_DimText_" name="текст" code="205"/>
+                <property number="1" type="4" codeName="_HorizontalPolicy_" name="размер по горизонтали" code="212"/>
+                <property number="0" type="4" codeName="_VerticalPolicy_" name="размер по вертикали" code="213"/>
+                <property number="0" type="0" codeName="_HorizontalStretch_" name="растяжение по горизонтали" code="214"/>
+                <property number="0" type="0" codeName="_VerticalStretch_" name="растяжение по вертикали" code="215"/>
+                <property number="0" type="4" codeName="_FillBackgroundType_" name="тип заполнения" code="216"/>
+                <property templateName="" type="11" codeName="_OutFillGradient_" name="градиент" code="218">
+                    <gradient radius="0" spread="0" type="3" coordinatemode="0" angle="0">
+                        <start X="0" Y="0"/>
+                        <stop X="0" Y="0"/>
+                        <stops/>
+                    </gradient>
+                </property>
+                <property templateName="" type="11" codeName="_InFillGradient_" name="градиент" code="219">
+                    <gradient radius="0" spread="0" type="3" coordinatemode="0" angle="0">
+                        <start X="0" Y="0"/>
+                        <stop X="0" Y="0"/>
+                        <stops/>
+                    </gradient>
+                </property>
+                <property number="2" type="4" codeName="_InAspectRatioMode_" name="пропорции пиктограммы" code="300"/>
+                <property number="2" type="4" codeName="_OutAspectRatioMode_" name="пропорции пиктограммы" code="301"/>
+                <property number="2" type="4" codeName="_DimAspectRatioMode_" name="пропорции пиктограммы" code="302"/>
+                <property number="2" type="4" codeName="_ButtonTypes_" name="тип кнопки" code="304"/>
+                <property number="0" type="4" codeName="_TextWrapMode_" name="разрыв текста" code="305"/>
+                <property number="1" type="4" codeName="_FrameLineStyle_" name="тип линии(для плоской рамки)" code="324"/>
+                <property type="6" codeName="_Font_" name="шрифт" code="351">
+                    <font strikeout="0" family="Tahoma" bold="0" pointsize="10" weight="50" underline="0" italic="0"/>
+                </property>
+                <property number="2" type="4" codeName="_Frame_" name="тип рамки" code="352"/>
+                <property image="" type="9" codeName="_OutImage_" name="пиктограмма" code="401"/>
+                <property image="" type="9" codeName="_InImage_" name="пиктограмма" code="402"/>
+                <property image="" type="9" codeName="_DimImage_" name="пиктограмма" code="403"/>
+                <property number="0" type="0" codeName="_LeftMargin_" name="отступ слева" code="606"/>
+                <property number="0" type="0" codeName="_RightMargin_" name="отступ справа" code="607"/>
+                <property number="0" type="0" codeName="_TopMargin_" name="отступ сверху" code="608"/>
+                <property number="0" type="0" codeName="_BottomMargin_" name="отступ снизу" code="609"/>
+                <property number="72506950" type="0" codeName="_IDIndex_" name="индекс" code="610"/>
+                <property number="0" type="0" codeName="_BorderRadiusX_" name="закругление по X" code="611"/>
+                <property number="0" type="0" codeName="_BorderRadiusY_" name="закругление по Y" code="612"/>
+                <property number="0" type="4" codeName="_Cursor_" name="курсор" code="628"/>
+                <property number="5" type="0" codeName="_LayoutLeftMargin_" name="отступ - слева" code="646"/>
+                <property number="5" type="0" codeName="_LayoutTopMargin_" name="отступ - сверху" code="647"/>
+                <property number="5" type="0" codeName="_LayoutRightMargin_" name="отступ - справа" code="648"/>
+                <property number="5" type="0" codeName="_LayoutBottomMargin_" name="отступ - снизу" code="649"/>
+                <property number="5" type="0" codeName="_LayoutSpacing_" name="отступ - между объектами" code="650"/>
+                <property number="0" type="4" codeName="_LayoutSizeConstraint_" name="ограничение размера" code="651"/>
+                <property number="16777215" type="0" codeName="_MaxWidth_" name="макс. ширина" code="652"/>
+                <property number="16777215" type="0" codeName="_MaxHeight_" name="макс. высота" code="653"/>
+                <property number="5" type="0" codeName="_MinWidth_" name="мин. ширина" code="654"/>
+                <property number="5" type="0" codeName="_MinHeight_" name="мин. высота" code="655"/>
+                <property number="0" type="5" codeName="_UsedStyle_" name="использовать стиль" code="656"/>
+                <property string="" type="2" codeName="_NameStyle_" name="название стиля" code="657"/>
+                <property number="0" type="5" codeName="_IsFocusFillColor_" name="менять фон" code="661"/>
+                <property templateName="" type="3" codeName="_FocusFillColor_" name="фон" code="662" colorRGBA="fff0f0f0"/>
+                <property number="0" type="5" codeName="_IsFocusTextColor_" name="менять текст" code="663"/>
+                <property templateName="" type="3" codeName="_FocusTextColor_" name="текст" code="664" colorRGBA="ff000000"/>
+                <property number="0" type="5" codeName="_IsFocusFrameColor_" name="менять рамку" code="665"/>
+                <property templateName="" type="3" codeName="_FocusFrameColor_" name="рамка" code="666" colorRGBA="ff000000"/>
+                <property number="0" type="5" codeName="_IsFocusFillGradient_" name="менять градиент" code="667"/>
+                <property templateName="" type="11" codeName="_FocusFillGradient_" name="градиент" code="668">
+                    <gradient radius="0" spread="0" type="3" coordinatemode="0" angle="0">
+                        <start X="0" Y="0"/>
+                        <stop X="0" Y="0"/>
+                        <stops/>
+                    </gradient>
+                </property>
+                <property number="0" type="5" codeName="_IsHoverFillColor_" name="менять фон" code="670"/>
+                <property templateName="" type="3" codeName="_HoverFillColor_" name="фон" code="671" colorRGBA="fff0f0f0"/>
+                <property number="0" type="5" codeName="_IsHoverTextColor_" name="менять текст" code="672"/>
+                <property templateName="" type="3" codeName="_HoverTextColor_" name="текст" code="673" colorRGBA="ff000000"/>
+                <property number="0" type="5" codeName="_IsHoverFrameColor_" name="менять рамку" code="674"/>
+                <property templateName="" type="3" codeName="_HoverFrameColor_" name="рамка" code="675" colorRGBA="ff000000"/>
+                <property number="0" type="5" codeName="_IsHoverFillGradient_" name="менять градиент" code="676"/>
+                <property templateName="" type="11" codeName="_HoverFillGradient_" name="градиент" code="677">
+                    <gradient radius="0" spread="0" type="3" coordinatemode="0" angle="0">
+                        <start X="0" Y="0"/>
+                        <stop X="0" Y="0"/>
+                        <stops/>
+                    </gradient>
+                </property>
+                <property number="0" type="5" codeName="8576" name="перемещение формы" code="8576"/>
+                <property number="0" type="5" codeName="13000" name="отображать" code="13000"/>
+                <property templateName="" type="3" codeName="13001" name="цвет" code="13001" colorRGBA="b43f3f3f"/>
+                <property number="8" type="0" codeName="13002" name="отступ по х" code="13002"/>
+                <property number="8" type="0" codeName="13003" name="отступ по у" code="13003"/>
+                <property number="10" type="0" codeName="13004" name="размытие" code="13004"/>
+                <property number="0" type="4" codeName="++lMaxOpcode" name="рисунок по горизонтали" code="13006"/>
+                <property number="0" type="4" codeName="++lMaxOpcode" name="рисунок по вертикали" code="13007"/>
+                <property number="0" type="4" codeName="++lMaxOpcode" name="рисунок по горизонтали" code="13008"/>
+                <property number="0" type="4" codeName="++lMaxOpcode" name="рисунок по вертикали" code="13009"/>
+                <property number="0" type="4" codeName="++lMaxOpcode" name="рисунок по горизонтали" code="13010"/>
+                <property number="0" type="4" codeName="++lMaxOpcode" name="рисунок по вертикали" code="13011"/>
+            </properties>
+        </object>
+        <object isMDI="0" type="2" name="АРУ2">
+            <properties>
+                <property templateName="" type="3" codeName="_TextColor_" name="цвет текста" code="2" colorRGBA="ff000000"/>
+                <property number="0" type="5" codeName="_Dim_" name="недоступность" code="3"/>
+                <property number="0" type="5" codeName="_Hide_" name="невидимость" code="4"/>
+                <property number="0" type="5" codeName="_State_" name="нажата" code="6"/>
+                <property string="АРУ2" type="2" codeName="_Text_" name="текст" code="8"/>
+                <property number="65" type="0" codeName="_Notify_" name="события" code="11"/>
+                <property number="4" type="4" codeName="_TextHAlign_" name="выравнивание по горизонтали" code="14"/>
+                <property number="128" type="4" codeName="_TextVAlign_" name="выравнивание по вертикали" code="15"/>
+                <property number="412" type="0" codeName="_X1_" name="X" code="21"/>
+                <property number="835" type="0" codeName="_Y1_" name="Y" code="22"/>
+                <property number="80" type="0" codeName="_Width_" name="ширина" code="23"/>
+                <property number="25" type="0" codeName="_Height_" name="высота" code="24"/>
+                <property templateName="" type="3" codeName="_BlinkTextColor_" name="цвет мигания текста" code="39" colorRGBA="ff000000"/>
+                <property number="1" type="5" codeName="_EditMoveble_" name="Edit Move" code="56"/>
+                <property number="0" type="4" codeName="_LayoutType_" name="тип компоновщика" code="57"/>
+                <property templateName="" type="3" codeName="_InFillColor_" name="цвет фона" code="100" colorRGBA="fff0f0f0"/>
+                <property templateName="" type="3" codeName="_OutFillColor_" name="цвет фона" code="101" colorRGBA="fff0f0f0"/>
+                <property templateName="" type="3" codeName="_BlinkFillColor_" name="цвет мигания фона" code="102" colorRGBA="ff000000"/>
+                <property templateName="" type="3" codeName="_InTextColor_" name="цвет текста" code="103" colorRGBA="ff000000"/>
+                <property templateName="" type="3" codeName="_OutTextColor_" name="цвет текста" code="104" colorRGBA="ff000000"/>
+                <property templateName="" type="3" codeName="_FrameColor_" name="цвет рамки" code="105" colorRGBA="ff000000"/>
+                <property templateName="" type="3" codeName="_BlinkFrameColor_" name="цвет мигания границы" code="106" colorRGBA="ff000000"/>
+                <property number="0" type="0" codeName="_TextAngle_" name="угол наклона" code="150"/>
+                <property number="2" type="0" codeName="_FrameWidth_" name="толщина" code="163"/>
+                <property number="0" type="5" codeName="_IsBlinkTextColor_" name="флаг включения мигания текста" code="168"/>
+                <property number="0" type="5" codeName="_IsBlinkFillColor_" name="флаг включения мигания фона" code="169"/>
+                <property number="0" type="5" codeName="_IsBlinkFrameColor_" name="флаг включения мигания границы" code="170"/>
+                <property number="0" type="0" codeName="_IssPageId_" name="ссылка на ИСС" code="190"/>
+                <property string="" type="2" codeName="_StatusBarText_" name="текст строки состояния" code="201"/>
+                <property string="" type="2" codeName="_ToolTipText_" name="всплывающая подсказка" code="202"/>
+                <property string="" type="2" codeName="_InText_" name="текст" code="203"/>
+                <property string="АРУ2" type="2" codeName="_OutText_" name="текст" code="204"/>
+                <property string="" type="2" codeName="_DimText_" name="текст" code="205"/>
+                <property number="1" type="4" codeName="_HorizontalPolicy_" name="размер по горизонтали" code="212"/>
+                <property number="0" type="4" codeName="_VerticalPolicy_" name="размер по вертикали" code="213"/>
+                <property number="0" type="0" codeName="_HorizontalStretch_" name="растяжение по горизонтали" code="214"/>
+                <property number="0" type="0" codeName="_VerticalStretch_" name="растяжение по вертикали" code="215"/>
+                <property number="0" type="4" codeName="_FillBackgroundType_" name="тип заполнения" code="216"/>
+                <property templateName="" type="11" codeName="_OutFillGradient_" name="градиент" code="218">
+                    <gradient radius="0" spread="0" type="3" coordinatemode="0" angle="0">
+                        <start X="0" Y="0"/>
+                        <stop X="0" Y="0"/>
+                        <stops/>
+                    </gradient>
+                </property>
+                <property templateName="" type="11" codeName="_InFillGradient_" name="градиент" code="219">
+                    <gradient radius="0" spread="0" type="3" coordinatemode="0" angle="0">
+                        <start X="0" Y="0"/>
+                        <stop X="0" Y="0"/>
+                        <stops/>
+                    </gradient>
+                </property>
+                <property number="2" type="4" codeName="_InAspectRatioMode_" name="пропорции пиктограммы" code="300"/>
+                <property number="2" type="4" codeName="_OutAspectRatioMode_" name="пропорции пиктограммы" code="301"/>
+                <property number="2" type="4" codeName="_DimAspectRatioMode_" name="пропорции пиктограммы" code="302"/>
+                <property number="2" type="4" codeName="_ButtonTypes_" name="тип кнопки" code="304"/>
+                <property number="0" type="4" codeName="_TextWrapMode_" name="разрыв текста" code="305"/>
+                <property number="1" type="4" codeName="_FrameLineStyle_" name="тип линии(для плоской рамки)" code="324"/>
+                <property type="6" codeName="_Font_" name="шрифт" code="351">
+                    <font strikeout="0" family="Tahoma" bold="0" pointsize="10" weight="50" underline="0" italic="0"/>
+                </property>
+                <property number="2" type="4" codeName="_Frame_" name="тип рамки" code="352"/>
+                <property image="" type="9" codeName="_OutImage_" name="пиктограмма" code="401"/>
+                <property image="" type="9" codeName="_InImage_" name="пиктограмма" code="402"/>
+                <property image="" type="9" codeName="_DimImage_" name="пиктограмма" code="403"/>
+                <property number="0" type="0" codeName="_LeftMargin_" name="отступ слева" code="606"/>
+                <property number="0" type="0" codeName="_RightMargin_" name="отступ справа" code="607"/>
+                <property number="0" type="0" codeName="_TopMargin_" name="отступ сверху" code="608"/>
+                <property number="0" type="0" codeName="_BottomMargin_" name="отступ снизу" code="609"/>
+                <property number="72918423" type="0" codeName="_IDIndex_" name="индекс" code="610"/>
+                <property number="0" type="0" codeName="_BorderRadiusX_" name="закругление по X" code="611"/>
+                <property number="0" type="0" codeName="_BorderRadiusY_" name="закругление по Y" code="612"/>
+                <property number="0" type="4" codeName="_Cursor_" name="курсор" code="628"/>
+                <property number="5" type="0" codeName="_LayoutLeftMargin_" name="отступ - слева" code="646"/>
+                <property number="5" type="0" codeName="_LayoutTopMargin_" name="отступ - сверху" code="647"/>
+                <property number="5" type="0" codeName="_LayoutRightMargin_" name="отступ - справа" code="648"/>
+                <property number="5" type="0" codeName="_LayoutBottomMargin_" name="отступ - снизу" code="649"/>
+                <property number="5" type="0" codeName="_LayoutSpacing_" name="отступ - между объектами" code="650"/>
+                <property number="0" type="4" codeName="_LayoutSizeConstraint_" name="ограничение размера" code="651"/>
+                <property number="16777215" type="0" codeName="_MaxWidth_" name="макс. ширина" code="652"/>
+                <property number="16777215" type="0" codeName="_MaxHeight_" name="макс. высота" code="653"/>
+                <property number="5" type="0" codeName="_MinWidth_" name="мин. ширина" code="654"/>
+                <property number="5" type="0" codeName="_MinHeight_" name="мин. высота" code="655"/>
+                <property number="0" type="5" codeName="_UsedStyle_" name="использовать стиль" code="656"/>
+                <property string="" type="2" codeName="_NameStyle_" name="название стиля" code="657"/>
+                <property number="0" type="5" codeName="_IsFocusFillColor_" name="менять фон" code="661"/>
+                <property templateName="" type="3" codeName="_FocusFillColor_" name="фон" code="662" colorRGBA="fff0f0f0"/>
+                <property number="0" type="5" codeName="_IsFocusTextColor_" name="менять текст" code="663"/>
+                <property templateName="" type="3" codeName="_FocusTextColor_" name="текст" code="664" colorRGBA="ff000000"/>
+                <property number="0" type="5" codeName="_IsFocusFrameColor_" name="менять рамку" code="665"/>
+                <property templateName="" type="3" codeName="_FocusFrameColor_" name="рамка" code="666" colorRGBA="ff000000"/>
+                <property number="0" type="5" codeName="_IsFocusFillGradient_" name="менять градиент" code="667"/>
+                <property templateName="" type="11" codeName="_FocusFillGradient_" name="градиент" code="668">
+                    <gradient radius="0" spread="0" type="3" coordinatemode="0" angle="0">
+                        <start X="0" Y="0"/>
+                        <stop X="0" Y="0"/>
+                        <stops/>
+                    </gradient>
+                </property>
+                <property number="0" type="5" codeName="_IsHoverFillColor_" name="менять фон" code="670"/>
+                <property templateName="" type="3" codeName="_HoverFillColor_" name="фон" code="671" colorRGBA="fff0f0f0"/>
+                <property number="0" type="5" codeName="_IsHoverTextColor_" name="менять текст" code="672"/>
+                <property templateName="" type="3" codeName="_HoverTextColor_" name="текст" code="673" colorRGBA="ff000000"/>
+                <property number="0" type="5" codeName="_IsHoverFrameColor_" name="менять рамку" code="674"/>
+                <property templateName="" type="3" codeName="_HoverFrameColor_" name="рамка" code="675" colorRGBA="ff000000"/>
+                <property number="0" type="5" codeName="_IsHoverFillGradient_" name="менять градиент" code="676"/>
+                <property templateName="" type="11" codeName="_HoverFillGradient_" name="градиент" code="677">
+                    <gradient radius="0" spread="0" type="3" coordinatemode="0" angle="0">
+                        <start X="0" Y="0"/>
+                        <stop X="0" Y="0"/>
+                        <stops/>
+                    </gradient>
+                </property>
+                <property number="0" type="5" codeName="8576" name="перемещение формы" code="8576"/>
+                <property number="0" type="5" codeName="13000" name="отображать" code="13000"/>
+                <property templateName="" type="3" codeName="13001" name="цвет" code="13001" colorRGBA="b43f3f3f"/>
+                <property number="8" type="0" codeName="13002" name="отступ по х" code="13002"/>
+                <property number="8" type="0" codeName="13003" name="отступ по у" code="13003"/>
+                <property number="10" type="0" codeName="13004" name="размытие" code="13004"/>
+                <property number="0" type="4" codeName="++lMaxOpcode" name="рисунок по горизонтали" code="13006"/>
+                <property number="0" type="4" codeName="++lMaxOpcode" name="рисунок по вертикали" code="13007"/>
+                <property number="0" type="4" codeName="++lMaxOpcode" name="рисунок по горизонтали" code="13008"/>
+                <property number="0" type="4" codeName="++lMaxOpcode" name="рисунок по вертикали" code="13009"/>
+                <property number="0" type="4" codeName="++lMaxOpcode" name="рисунок по горизонтали" code="13010"/>
+                <property number="0" type="4" codeName="++lMaxOpcode" name="рисунок по вертикали" code="13011"/>
+            </properties>
+        </object>
+        <object isMDI="0" type="2" name="МПРД1">
+            <properties>
+                <property templateName="" type="3" codeName="_TextColor_" name="цвет текста" code="2" colorRGBA="ff000000"/>
+                <property number="0" type="5" codeName="_Dim_" name="недоступность" code="3"/>
+                <property number="0" type="5" codeName="_Hide_" name="невидимость" code="4"/>
+                <property number="0" type="5" codeName="_State_" name="нажата" code="6"/>
+                <property string="МПРД1" type="2" codeName="_Text_" name="текст" code="8"/>
+                <property number="65" type="0" codeName="_Notify_" name="события" code="11"/>
+                <property number="4" type="4" codeName="_TextHAlign_" name="выравнивание по горизонтали" code="14"/>
+                <property number="128" type="4" codeName="_TextVAlign_" name="выравнивание по вертикали" code="15"/>
+                <property number="759" type="0" codeName="_X1_" name="X" code="21"/>
+                <property number="837" type="0" codeName="_Y1_" name="Y" code="22"/>
+                <property number="80" type="0" codeName="_Width_" name="ширина" code="23"/>
+                <property number="25" type="0" codeName="_Height_" name="высота" code="24"/>
+                <property templateName="" type="3" codeName="_BlinkTextColor_" name="цвет мигания текста" code="39" colorRGBA="ff000000"/>
+                <property number="1" type="5" codeName="_EditMoveble_" name="Edit Move" code="56"/>
+                <property number="0" type="4" codeName="_LayoutType_" name="тип компоновщика" code="57"/>
+                <property templateName="" type="3" codeName="_InFillColor_" name="цвет фона" code="100" colorRGBA="fff0f0f0"/>
+                <property templateName="" type="3" codeName="_OutFillColor_" name="цвет фона" code="101" colorRGBA="fff0f0f0"/>
+                <property templateName="" type="3" codeName="_BlinkFillColor_" name="цвет мигания фона" code="102" colorRGBA="ff000000"/>
+                <property templateName="" type="3" codeName="_InTextColor_" name="цвет текста" code="103" colorRGBA="ff000000"/>
+                <property templateName="" type="3" codeName="_OutTextColor_" name="цвет текста" code="104" colorRGBA="ff000000"/>
+                <property templateName="" type="3" codeName="_FrameColor_" name="цвет рамки" code="105" colorRGBA="ff000000"/>
+                <property templateName="" type="3" codeName="_BlinkFrameColor_" name="цвет мигания границы" code="106" colorRGBA="ff000000"/>
+                <property number="0" type="0" codeName="_TextAngle_" name="угол наклона" code="150"/>
+                <property number="2" type="0" codeName="_FrameWidth_" name="толщина" code="163"/>
+                <property number="0" type="5" codeName="_IsBlinkTextColor_" name="флаг включения мигания текста" code="168"/>
+                <property number="0" type="5" codeName="_IsBlinkFillColor_" name="флаг включения мигания фона" code="169"/>
+                <property number="0" type="5" codeName="_IsBlinkFrameColor_" name="флаг включения мигания границы" code="170"/>
+                <property number="0" type="0" codeName="_IssPageId_" name="ссылка на ИСС" code="190"/>
+                <property string="" type="2" codeName="_StatusBarText_" name="текст строки состояния" code="201"/>
+                <property string="" type="2" codeName="_ToolTipText_" name="всплывающая подсказка" code="202"/>
+                <property string="" type="2" codeName="_InText_" name="текст" code="203"/>
+                <property string="МПРД1" type="2" codeName="_OutText_" name="текст" code="204"/>
+                <property string="" type="2" codeName="_DimText_" name="текст" code="205"/>
+                <property number="1" type="4" codeName="_HorizontalPolicy_" name="размер по горизонтали" code="212"/>
+                <property number="0" type="4" codeName="_VerticalPolicy_" name="размер по вертикали" code="213"/>
+                <property number="0" type="0" codeName="_HorizontalStretch_" name="растяжение по горизонтали" code="214"/>
+                <property number="0" type="0" codeName="_VerticalStretch_" name="растяжение по вертикали" code="215"/>
+                <property number="0" type="4" codeName="_FillBackgroundType_" name="тип заполнения" code="216"/>
+                <property templateName="" type="11" codeName="_OutFillGradient_" name="градиент" code="218">
+                    <gradient radius="0" spread="0" type="3" coordinatemode="0" angle="0">
+                        <start X="0" Y="0"/>
+                        <stop X="0" Y="0"/>
+                        <stops/>
+                    </gradient>
+                </property>
+                <property templateName="" type="11" codeName="_InFillGradient_" name="градиент" code="219">
+                    <gradient radius="0" spread="0" type="3" coordinatemode="0" angle="0">
+                        <start X="0" Y="0"/>
+                        <stop X="0" Y="0"/>
+                        <stops/>
+                    </gradient>
+                </property>
+                <property number="2" type="4" codeName="_InAspectRatioMode_" name="пропорции пиктограммы" code="300"/>
+                <property number="2" type="4" codeName="_OutAspectRatioMode_" name="пропорции пиктограммы" code="301"/>
+                <property number="2" type="4" codeName="_DimAspectRatioMode_" name="пропорции пиктограммы" code="302"/>
+                <property number="2" type="4" codeName="_ButtonTypes_" name="тип кнопки" code="304"/>
+                <property number="0" type="4" codeName="_TextWrapMode_" name="разрыв текста" code="305"/>
+                <property number="1" type="4" codeName="_FrameLineStyle_" name="тип линии(для плоской рамки)" code="324"/>
+                <property type="6" codeName="_Font_" name="шрифт" code="351">
+                    <font strikeout="0" family="Tahoma" bold="0" pointsize="10" weight="50" underline="0" italic="0"/>
+                </property>
+                <property number="2" type="4" codeName="_Frame_" name="тип рамки" code="352"/>
+                <property image="" type="9" codeName="_OutImage_" name="пиктограмма" code="401"/>
+                <property image="" type="9" codeName="_InImage_" name="пиктограмма" code="402"/>
+                <property image="" type="9" codeName="_DimImage_" name="пиктограмма" code="403"/>
+                <property number="0" type="0" codeName="_LeftMargin_" name="отступ слева" code="606"/>
+                <property number="0" type="0" codeName="_RightMargin_" name="отступ справа" code="607"/>
+                <property number="0" type="0" codeName="_TopMargin_" name="отступ сверху" code="608"/>
+                <property number="0" type="0" codeName="_BottomMargin_" name="отступ снизу" code="609"/>
+                <property number="73011951" type="0" codeName="_IDIndex_" name="индекс" code="610"/>
+                <property number="0" type="0" codeName="_BorderRadiusX_" name="закругление по X" code="611"/>
+                <property number="0" type="0" codeName="_BorderRadiusY_" name="закругление по Y" code="612"/>
+                <property number="0" type="4" codeName="_Cursor_" name="курсор" code="628"/>
+                <property number="5" type="0" codeName="_LayoutLeftMargin_" name="отступ - слева" code="646"/>
+                <property number="5" type="0" codeName="_LayoutTopMargin_" name="отступ - сверху" code="647"/>
+                <property number="5" type="0" codeName="_LayoutRightMargin_" name="отступ - справа" code="648"/>
+                <property number="5" type="0" codeName="_LayoutBottomMargin_" name="отступ - снизу" code="649"/>
+                <property number="5" type="0" codeName="_LayoutSpacing_" name="отступ - между объектами" code="650"/>
+                <property number="0" type="4" codeName="_LayoutSizeConstraint_" name="ограничение размера" code="651"/>
+                <property number="16777215" type="0" codeName="_MaxWidth_" name="макс. ширина" code="652"/>
+                <property number="16777215" type="0" codeName="_MaxHeight_" name="макс. высота" code="653"/>
+                <property number="5" type="0" codeName="_MinWidth_" name="мин. ширина" code="654"/>
+                <property number="5" type="0" codeName="_MinHeight_" name="мин. высота" code="655"/>
+                <property number="0" type="5" codeName="_UsedStyle_" name="использовать стиль" code="656"/>
+                <property string="" type="2" codeName="_NameStyle_" name="название стиля" code="657"/>
+                <property number="0" type="5" codeName="_IsFocusFillColor_" name="менять фон" code="661"/>
+                <property templateName="" type="3" codeName="_FocusFillColor_" name="фон" code="662" colorRGBA="fff0f0f0"/>
+                <property number="0" type="5" codeName="_IsFocusTextColor_" name="менять текст" code="663"/>
+                <property templateName="" type="3" codeName="_FocusTextColor_" name="текст" code="664" colorRGBA="ff000000"/>
+                <property number="0" type="5" codeName="_IsFocusFrameColor_" name="менять рамку" code="665"/>
+                <property templateName="" type="3" codeName="_FocusFrameColor_" name="рамка" code="666" colorRGBA="ff000000"/>
+                <property number="0" type="5" codeName="_IsFocusFillGradient_" name="менять градиент" code="667"/>
+                <property templateName="" type="11" codeName="_FocusFillGradient_" name="градиент" code="668">
+                    <gradient radius="0" spread="0" type="3" coordinatemode="0" angle="0">
+                        <start X="0" Y="0"/>
+                        <stop X="0" Y="0"/>
+                        <stops/>
+                    </gradient>
+                </property>
+                <property number="0" type="5" codeName="_IsHoverFillColor_" name="менять фон" code="670"/>
+                <property templateName="" type="3" codeName="_HoverFillColor_" name="фон" code="671" colorRGBA="fff0f0f0"/>
+                <property number="0" type="5" codeName="_IsHoverTextColor_" name="менять текст" code="672"/>
+                <property templateName="" type="3" codeName="_HoverTextColor_" name="текст" code="673" colorRGBA="ff000000"/>
+                <property number="0" type="5" codeName="_IsHoverFrameColor_" name="менять рамку" code="674"/>
+                <property templateName="" type="3" codeName="_HoverFrameColor_" name="рамка" code="675" colorRGBA="ff000000"/>
+                <property number="0" type="5" codeName="_IsHoverFillGradient_" name="менять градиент" code="676"/>
+                <property templateName="" type="11" codeName="_HoverFillGradient_" name="градиент" code="677">
+                    <gradient radius="0" spread="0" type="3" coordinatemode="0" angle="0">
+                        <start X="0" Y="0"/>
+                        <stop X="0" Y="0"/>
+                        <stops/>
+                    </gradient>
+                </property>
+                <property number="0" type="5" codeName="8576" name="перемещение формы" code="8576"/>
+                <property number="0" type="5" codeName="13000" name="отображать" code="13000"/>
+                <property templateName="" type="3" codeName="13001" name="цвет" code="13001" colorRGBA="b43f3f3f"/>
+                <property number="8" type="0" codeName="13002" name="отступ по х" code="13002"/>
+                <property number="8" type="0" codeName="13003" name="отступ по у" code="13003"/>
+                <property number="10" type="0" codeName="13004" name="размытие" code="13004"/>
+                <property number="0" type="4" codeName="++lMaxOpcode" name="рисунок по горизонтали" code="13006"/>
+                <property number="0" type="4" codeName="++lMaxOpcode" name="рисунок по вертикали" code="13007"/>
+                <property number="0" type="4" codeName="++lMaxOpcode" name="рисунок по горизонтали" code="13008"/>
+                <property number="0" type="4" codeName="++lMaxOpcode" name="рисунок по вертикали" code="13009"/>
+                <property number="0" type="4" codeName="++lMaxOpcode" name="рисунок по горизонтали" code="13010"/>
+                <property number="0" type="4" codeName="++lMaxOpcode" name="рисунок по вертикали" code="13011"/>
+            </properties>
+        </object>
+        <object isMDI="0" type="2" name="МПРД2">
+            <properties>
+                <property templateName="" type="3" codeName="_TextColor_" name="цвет текста" code="2" colorRGBA="ff000000"/>
+                <property number="0" type="5" codeName="_Dim_" name="недоступность" code="3"/>
+                <property number="0" type="5" codeName="_Hide_" name="невидимость" code="4"/>
+                <property number="0" type="5" codeName="_State_" name="нажата" code="6"/>
+                <property string="МПРД2" type="2" codeName="_Text_" name="текст" code="8"/>
+                <property number="65" type="0" codeName="_Notify_" name="события" code="11"/>
+                <property number="4" type="4" codeName="_TextHAlign_" name="выравнивание по горизонтали" code="14"/>
+                <property number="128" type="4" codeName="_TextVAlign_" name="выравнивание по вертикали" code="15"/>
+                <property number="1060" type="0" codeName="_X1_" name="X" code="21"/>
+                <property number="840" type="0" codeName="_Y1_" name="Y" code="22"/>
+                <property number="80" type="0" codeName="_Width_" name="ширина" code="23"/>
+                <property number="25" type="0" codeName="_Height_" name="высота" code="24"/>
+                <property templateName="" type="3" codeName="_BlinkTextColor_" name="цвет мигания текста" code="39" colorRGBA="ff000000"/>
+                <property number="1" type="5" codeName="_EditMoveble_" name="Edit Move" code="56"/>
+                <property number="0" type="4" codeName="_LayoutType_" name="тип компоновщика" code="57"/>
+                <property templateName="" type="3" codeName="_InFillColor_" name="цвет фона" code="100" colorRGBA="fff0f0f0"/>
+                <property templateName="" type="3" codeName="_OutFillColor_" name="цвет фона" code="101" colorRGBA="fff0f0f0"/>
+                <property templateName="" type="3" codeName="_BlinkFillColor_" name="цвет мигания фона" code="102" colorRGBA="ff000000"/>
+                <property templateName="" type="3" codeName="_InTextColor_" name="цвет текста" code="103" colorRGBA="ff000000"/>
+                <property templateName="" type="3" codeName="_OutTextColor_" name="цвет текста" code="104" colorRGBA="ff000000"/>
+                <property templateName="" type="3" codeName="_FrameColor_" name="цвет рамки" code="105" colorRGBA="ff000000"/>
+                <property templateName="" type="3" codeName="_BlinkFrameColor_" name="цвет мигания границы" code="106" colorRGBA="ff000000"/>
+                <property number="0" type="0" codeName="_TextAngle_" name="угол наклона" code="150"/>
+                <property number="2" type="0" codeName="_FrameWidth_" name="толщина" code="163"/>
+                <property number="0" type="5" codeName="_IsBlinkTextColor_" name="флаг включения мигания текста" code="168"/>
+                <property number="0" type="5" codeName="_IsBlinkFillColor_" name="флаг включения мигания фона" code="169"/>
+                <property number="0" type="5" codeName="_IsBlinkFrameColor_" name="флаг включения мигания границы" code="170"/>
+                <property number="0" type="0" codeName="_IssPageId_" name="ссылка на ИСС" code="190"/>
+                <property string="" type="2" codeName="_StatusBarText_" name="текст строки состояния" code="201"/>
+                <property string="" type="2" codeName="_ToolTipText_" name="всплывающая подсказка" code="202"/>
+                <property string="" type="2" codeName="_InText_" name="текст" code="203"/>
+                <property string="МПРД2" type="2" codeName="_OutText_" name="текст" code="204"/>
+                <property string="" type="2" codeName="_DimText_" name="текст" code="205"/>
+                <property number="1" type="4" codeName="_HorizontalPolicy_" name="размер по горизонтали" code="212"/>
+                <property number="0" type="4" codeName="_VerticalPolicy_" name="размер по вертикали" code="213"/>
+                <property number="0" type="0" codeName="_HorizontalStretch_" name="растяжение по горизонтали" code="214"/>
+                <property number="0" type="0" codeName="_VerticalStretch_" name="растяжение по вертикали" code="215"/>
+                <property number="0" type="4" codeName="_FillBackgroundType_" name="тип заполнения" code="216"/>
+                <property templateName="" type="11" codeName="_OutFillGradient_" name="градиент" code="218">
+                    <gradient radius="0" spread="0" type="3" coordinatemode="0" angle="0">
+                        <start X="0" Y="0"/>
+                        <stop X="0" Y="0"/>
+                        <stops/>
+                    </gradient>
+                </property>
+                <property templateName="" type="11" codeName="_InFillGradient_" name="градиент" code="219">
+                    <gradient radius="0" spread="0" type="3" coordinatemode="0" angle="0">
+                        <start X="0" Y="0"/>
+                        <stop X="0" Y="0"/>
+                        <stops/>
+                    </gradient>
+                </property>
+                <property number="2" type="4" codeName="_InAspectRatioMode_" name="пропорции пиктограммы" code="300"/>
+                <property number="2" type="4" codeName="_OutAspectRatioMode_" name="пропорции пиктограммы" code="301"/>
+                <property number="2" type="4" codeName="_DimAspectRatioMode_" name="пропорции пиктограммы" code="302"/>
+                <property number="2" type="4" codeName="_ButtonTypes_" name="тип кнопки" code="304"/>
+                <property number="0" type="4" codeName="_TextWrapMode_" name="разрыв текста" code="305"/>
+                <property number="1" type="4" codeName="_FrameLineStyle_" name="тип линии(для плоской рамки)" code="324"/>
+                <property type="6" codeName="_Font_" name="шрифт" code="351">
+                    <font strikeout="0" family="Tahoma" bold="0" pointsize="10" weight="50" underline="0" italic="0"/>
+                </property>
+                <property number="2" type="4" codeName="_Frame_" name="тип рамки" code="352"/>
+                <property image="" type="9" codeName="_OutImage_" name="пиктограмма" code="401"/>
+                <property image="" type="9" codeName="_InImage_" name="пиктограмма" code="402"/>
+                <property image="" type="9" codeName="_DimImage_" name="пиктограмма" code="403"/>
+                <property number="0" type="0" codeName="_LeftMargin_" name="отступ слева" code="606"/>
+                <property number="0" type="0" codeName="_RightMargin_" name="отступ справа" code="607"/>
+                <property number="0" type="0" codeName="_TopMargin_" name="отступ сверху" code="608"/>
+                <property number="0" type="0" codeName="_BottomMargin_" name="отступ снизу" code="609"/>
+                <property number="73104233" type="0" codeName="_IDIndex_" name="индекс" code="610"/>
+                <property number="0" type="0" codeName="_BorderRadiusX_" name="закругление по X" code="611"/>
+                <property number="0" type="0" codeName="_BorderRadiusY_" name="закругление по Y" code="612"/>
+                <property number="0" type="4" codeName="_Cursor_" name="курсор" code="628"/>
+                <property number="5" type="0" codeName="_LayoutLeftMargin_" name="отступ - слева" code="646"/>
+                <property number="5" type="0" codeName="_LayoutTopMargin_" name="отступ - сверху" code="647"/>
+                <property number="5" type="0" codeName="_LayoutRightMargin_" name="отступ - справа" code="648"/>
+                <property number="5" type="0" codeName="_LayoutBottomMargin_" name="отступ - снизу" code="649"/>
+                <property number="5" type="0" codeName="_LayoutSpacing_" name="отступ - между объектами" code="650"/>
+                <property number="0" type="4" codeName="_LayoutSizeConstraint_" name="ограничение размера" code="651"/>
+                <property number="16777215" type="0" codeName="_MaxWidth_" name="макс. ширина" code="652"/>
+                <property number="16777215" type="0" codeName="_MaxHeight_" name="макс. высота" code="653"/>
+                <property number="5" type="0" codeName="_MinWidth_" name="мин. ширина" code="654"/>
+                <property number="5" type="0" codeName="_MinHeight_" name="мин. высота" code="655"/>
+                <property number="0" type="5" codeName="_UsedStyle_" name="использовать стиль" code="656"/>
+                <property string="" type="2" codeName="_NameStyle_" name="название стиля" code="657"/>
+                <property number="0" type="5" codeName="_IsFocusFillColor_" name="менять фон" code="661"/>
+                <property templateName="" type="3" codeName="_FocusFillColor_" name="фон" code="662" colorRGBA="fff0f0f0"/>
+                <property number="0" type="5" codeName="_IsFocusTextColor_" name="менять текст" code="663"/>
+                <property templateName="" type="3" codeName="_FocusTextColor_" name="текст" code="664" colorRGBA="ff000000"/>
+                <property number="0" type="5" codeName="_IsFocusFrameColor_" name="менять рамку" code="665"/>
+                <property templateName="" type="3" codeName="_FocusFrameColor_" name="рамка" code="666" colorRGBA="ff000000"/>
+                <property number="0" type="5" codeName="_IsFocusFillGradient_" name="менять градиент" code="667"/>
+                <property templateName="" type="11" codeName="_FocusFillGradient_" name="градиент" code="668">
+                    <gradient radius="0" spread="0" type="3" coordinatemode="0" angle="0">
+                        <start X="0" Y="0"/>
+                        <stop X="0" Y="0"/>
+                        <stops/>
+                    </gradient>
+                </property>
+                <property number="0" type="5" codeName="_IsHoverFillColor_" name="менять фон" code="670"/>
+                <property templateName="" type="3" codeName="_HoverFillColor_" name="фон" code="671" colorRGBA="fff0f0f0"/>
+                <property number="0" type="5" codeName="_IsHoverTextColor_" name="менять текст" code="672"/>
+                <property templateName="" type="3" codeName="_HoverTextColor_" name="текст" code="673" colorRGBA="ff000000"/>
+                <property number="0" type="5" codeName="_IsHoverFrameColor_" name="менять рамку" code="674"/>
+                <property templateName="" type="3" codeName="_HoverFrameColor_" name="рамка" code="675" colorRGBA="ff000000"/>
+                <property number="0" type="5" codeName="_IsHoverFillGradient_" name="менять градиент" code="676"/>
+                <property templateName="" type="11" codeName="_HoverFillGradient_" name="градиент" code="677">
+                    <gradient radius="0" spread="0" type="3" coordinatemode="0" angle="0">
+                        <start X="0" Y="0"/>
+                        <stop X="0" Y="0"/>
+                        <stops/>
+                    </gradient>
+                </property>
+                <property number="0" type="5" codeName="8576" name="перемещение формы" code="8576"/>
+                <property number="0" type="5" codeName="13000" name="отображать" code="13000"/>
+                <property templateName="" type="3" codeName="13001" name="цвет" code="13001" colorRGBA="b43f3f3f"/>
+                <property number="8" type="0" codeName="13002" name="отступ по х" code="13002"/>
+                <property number="8" type="0" codeName="13003" name="отступ по у" code="13003"/>
+                <property number="10" type="0" codeName="13004" name="размытие" code="13004"/>
+                <property number="0" type="4" codeName="++lMaxOpcode" name="рисунок по горизонтали" code="13006"/>
+                <property number="0" type="4" codeName="++lMaxOpcode" name="рисунок по вертикали" code="13007"/>
+                <property number="0" type="4" codeName="++lMaxOpcode" name="рисунок по горизонтали" code="13008"/>
+                <property number="0" type="4" codeName="++lMaxOpcode" name="рисунок по вертикали" code="13009"/>
+                <property number="0" type="4" codeName="++lMaxOpcode" name="рисунок по горизонтали" code="13010"/>
+                <property number="0" type="4" codeName="++lMaxOpcode" name="рисунок по вертикали" code="13011"/>
             </properties>
         </object>
     </object>

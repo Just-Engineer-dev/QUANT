@@ -174,4 +174,18 @@
             </oneAttribute>
         </Attribute>
     </Object>
+    <Object type="4" objID="54355740" name="Поле_вывода">
+        <Attribute codeType="2" code="8" checkAttVal="1">
+            <oneAttribute fLastValue="1" fStatus="0" fPastObj="0" format="%.3f" formatTime="6" ctrlParName="АРУ1" beginIndx="0" fTime="0">
+                <ParToValue parName="АРУ1" fInclude="4" vLeft="0" vRight="0" type="1"/>
+            </oneAttribute>
+        </Attribute>
+    </Object>
+    <Object type="4" objID="54527118" name="Поле_вывода">
+        <Attribute codeType="2" code="8" checkAttVal="1">
+            <oneAttribute fLastValue="1" fStatus="0" fPastObj="0" format="%.3f" formatTime="6" ctrlParName="АРУ2" beginIndx="0" fTime="0">
+                <ParToValue parName="АРУ2" fInclude="4" vLeft="0" vRight="0" type="1"/>
+            </oneAttribute>
+        </Attribute>
+    </Object>
 </FormInfo>

@@ -1,5 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <GuiStates version="2.0">
+     <object type="45" objID="68760122" name="0">
+          <state fAllVal="0" name="БЗ~СостояниеКвант.Сигнальные.АФУ11.замкнут" knb_states="БЗ~СостояниеКвант.Сигнальные.АФУ11.замкнут"/>
+     </object>
+     <object type="4" objID="54355740" name="Поле_вывода">
+          <state fAllVal="0" name="БЗ~СостояниеКвант.Аналоговые.АРУ1.ВышеНормы" knb_states="БЗ~СостояниеКвант.Аналоговые.АРУ1.ВышеНормы">
+               <property templateName="красный" type_att="3" value="4294901760" code="1" isParVar="no"/>
+          </state>
+          <state fAllVal="0" name="БЗ~СостояниеКвант.Аналоговые.АРУ1.НижеНормы" knb_states="БЗ~СостояниеКвант.Аналоговые.АРУ1.НижеНормы">
+               <property templateName="голубой" type_att="3" value="4278255615" code="1" isParVar="no"/>
+          </state>
+          <state fAllVal="0" name="БЗ~СостояниеКвант.Аналоговые.АРУ1.Норма" knb_states="БЗ~СостояниеКвант.Аналоговые.АРУ1.Норма">
+               <property templateName="зеленый" type_att="3" value="4278255360" code="1" isParVar="no"/>
+          </state>
+     </object>
+     <object type="4" objID="54527118" name="Поле_вывода">
+          <state fAllVal="0" name="БЗ~СостояниеКвант.Аналоговые.АРУ2.ВышеНормы" knb_states="БЗ~СостояниеКвант.Аналоговые.АРУ2.ВышеНормы">
+               <property templateName="красный" type_att="3" value="4294901760" code="1" isParVar="no"/>
+          </state>
+          <state fAllVal="0" name="БЗ~СостояниеКвант.Аналоговые.АРУ2.НижеНормы" knb_states="БЗ~СостояниеКвант.Аналоговые.АРУ2.НижеНормы">
+               <property templateName="голубой" type_att="3" value="4278255615" code="1" isParVar="no"/>
+          </state>
+          <state fAllVal="0" name="БЗ~СостояниеКвант.Аналоговые.АРУ2.Норма" knb_states="БЗ~СостояниеКвант.Аналоговые.АРУ2.Норма">
+               <property templateName="зеленый" type_att="3" value="4278255360" code="1" isParVar="no"/>
+          </state>
+     </object>
      <object type="4" objID="54671315" name="Поле_вывода">
           <state fAllVal="0" name="БЗ~СостояниеКвант.Аналоговые.МПРД1.ВышеНормы" knb_states="БЗ~СостояниеКвант.Аналоговые.МПРД1.ВышеНормы">
                <property templateName="" type_att="3" value="4294901760" code="2" isParVar="no"/>
@@ -9,6 +34,61 @@
           </state>
           <state fAllVal="0" name="БЗ~СостояниеКвант.Аналоговые.МПРД1.Норма" knb_states="БЗ~СостояниеКвант.Аналоговые.МПРД1.Норма">
                <property templateName="" type_att="3" value="4278255360" code="2" isParVar="no"/>
+          </state>
+     </object>
+     <object type="4" objID="54672325" name="Поле_вывода">
+          <state fAllVal="0" name="БЗ~СостояниеКвант.Аналоговые.МПРД2.ВышеНормы" knb_states="БЗ~СостояниеКвант.Аналоговые.МПРД2.ВышеНормы">
+               <property templateName="красный" type_att="3" value="4294901760" code="1" isParVar="no"/>
+          </state>
+          <state fAllVal="0" name="БЗ~СостояниеКвант.Аналоговые.МПРД2.НижеНормы" knb_states="БЗ~СостояниеКвант.Аналоговые.МПРД2.НижеНормы">
+               <property templateName="голубой" type_att="3" value="4278255615" code="1" isParVar="no"/>
+          </state>
+          <state fAllVal="0" name="БЗ~СостояниеКвант.Аналоговые.МПРД2.Норма" knb_states="БЗ~СостояниеКвант.Аналоговые.МПРД2.Норма">
+               <property templateName="зеленый" type_att="3" value="4278255360" code="1" isParVar="no"/>
+          </state>
+     </object>
+     <object type="2" objID="72506950" name="АРУ1">
+          <state fAllVal="0" name="БЗ~СостояниеКвант.Аналоговые.АРУ1.ВышеНормы" knb_states="БЗ~СостояниеКвант.Аналоговые.АРУ1.ВышеНормы">
+               <property templateName="" type_att="3" value="4294901760" code="1" isParVar="no"/>
+          </state>
+          <state fAllVal="0" name="БЗ~СостояниеКвант.Аналоговые.АРУ1.НижеНормы" knb_states="БЗ~СостояниеКвант.Аналоговые.АРУ1.НижеНормы">
+               <property templateName="голубой" type_att="3" value="4278255615" code="1" isParVar="no"/>
+          </state>
+          <state fAllVal="0" name="БЗ~СостояниеКвант.Аналоговые.АРУ1.Норма" knb_states="БЗ~СостояниеКвант.Аналоговые.АРУ1.Норма">
+               <property templateName="" type_att="3" value="4278255360" code="1" isParVar="no"/>
+          </state>
+     </object>
+     <object type="2" objID="72918423" name="АРУ2">
+          <state fAllVal="0" name="БЗ~СостояниеКвант.Аналоговые.АРУ2.ВышеНормы" knb_states="БЗ~СостояниеКвант.Аналоговые.АРУ2.ВышеНормы">
+               <property templateName="" type_att="3" value="4294901760" code="1" isParVar="no"/>
+          </state>
+          <state fAllVal="0" name="БЗ~СостояниеКвант.Аналоговые.АРУ2.НижеНормы" knb_states="БЗ~СостояниеКвант.Аналоговые.АРУ2.НижеНормы">
+               <property templateName="голубой" type_att="3" value="4278255615" code="1" isParVar="no"/>
+          </state>
+          <state fAllVal="0" name="БЗ~СостояниеКвант.Аналоговые.АРУ2.Норма" knb_states="БЗ~СостояниеКвант.Аналоговые.АРУ2.Норма">
+               <property templateName="" type_att="3" value="4278255360" code="1" isParVar="no"/>
+          </state>
+     </object>
+     <object type="2" objID="73011951" name="МПРД1">
+          <state fAllVal="0" name="БЗ~СостояниеКвант.Аналоговые.МПРД1.ВышеНормы" knb_states="БЗ~СостояниеКвант.Аналоговые.МПРД1.ВышеНормы">
+               <property templateName="" type_att="3" value="4294901760" code="1" isParVar="no"/>
+          </state>
+          <state fAllVal="0" name="БЗ~СостояниеКвант.Аналоговые.МПРД1.НижеНормы" knb_states="БЗ~СостояниеКвант.Аналоговые.МПРД1.НижеНормы">
+               <property templateName="голубой" type_att="3" value="4278255615" code="1" isParVar="no"/>
+          </state>
+          <state fAllVal="0" name="БЗ~СостояниеКвант.Аналоговые.МПРД1.Норма" knb_states="БЗ~СостояниеКвант.Аналоговые.МПРД1.Норма">
+               <property templateName="" type_att="3" value="4278255360" code="1" isParVar="no"/>
+          </state>
+     </object>
+     <object type="2" objID="73104233" name="МПРД2">
+          <state fAllVal="0" name="БЗ~СостояниеКвант.Аналоговые.МПРД2.ВышеНормы" knb_states="БЗ~СостояниеКвант.Аналоговые.МПРД2.ВышеНормы">
+               <property templateName="" type_att="3" value="4294901760" code="1" isParVar="no"/>
+          </state>
+          <state fAllVal="0" name="БЗ~СостояниеКвант.Аналоговые.МПРД2.НижеНормы" knb_states="БЗ~СостояниеКвант.Аналоговые.МПРД2.НижеНормы">
+               <property templateName="голубой" type_att="3" value="4278255615" code="1" isParVar="no"/>
+          </state>
+          <state fAllVal="0" name="БЗ~СостояниеКвант.Аналоговые.МПРД2.Норма" knb_states="БЗ~СостояниеКвант.Аналоговые.МПРД2.Норма">
+               <property templateName="" type_att="3" value="4278255360" code="1" isParVar="no"/>
           </state>
      </object>
 </GuiStates>
