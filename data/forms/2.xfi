@@ -38,6 +38,7 @@
     </Object>
     <Object type="16" objID="64199328" name="Контейнер_состояний">
         <AccordingMap/>
+        <Attribute codeType="2" code="8" checkAttVal="1"/>
     </Object>
     <Object type="25526" objID="64403543" name="Вертикальная_черта">
         <Attribute codeType="3" code="25005" checkAttVal="1"/>
@@ -185,6 +186,66 @@
         <Attribute codeType="2" code="8" checkAttVal="1">
             <oneAttribute fLastValue="1" fStatus="0" fPastObj="0" format="%.3f" formatTime="6" ctrlParName="АРУ2" beginIndx="0" fTime="0">
                 <ParToValue parName="АРУ2" fInclude="4" vLeft="0" vRight="0" type="1"/>
+            </oneAttribute>
+        </Attribute>
+    </Object>
+    <Object type="45" objID="64199329" name="0">
+        <AccordingMap>
+            <Accord faktPar="АФУ12" formalPar="@АФУ12"/>
+        </AccordingMap>
+        <Attribute codeType="0" code="610" checkAttVal="0">
+            <oneAttribute fLastValue="1" fStatus="0" fPastObj="0" format="%.3f" formatTime="6" ctrlParName="АФУ12" beginIndx="0" fTime="0">
+                <ParToValue parName="АФУ12" fInclude="4" vLeft="0" vRight="0" type="1"/>
+            </oneAttribute>
+        </Attribute>
+    </Object>
+    <Object type="45" objID="74875159" name="1">
+        <AccordingMap>
+            <Accord faktPar="АФУ11" formalPar="@АФУ11"/>
+        </AccordingMap>
+        <Attribute codeType="0" code="610" checkAttVal="0">
+            <oneAttribute fLastValue="1" fStatus="0" fPastObj="0" format="%.3f" formatTime="6" ctrlParName="АФУ11" beginIndx="0" fTime="0">
+                <ParToValue parName="АФУ11" fInclude="4" vLeft="0" vRight="0" type="1"/>
+            </oneAttribute>
+        </Attribute>
+    </Object>
+    <Object type="45" objID="68640894" name="0">
+        <AccordingMap>
+            <Accord faktPar="АФУ21" formalPar="@АФУ21"/>
+        </AccordingMap>
+        <Attribute codeType="0" code="610" checkAttVal="0">
+            <oneAttribute fLastValue="1" fStatus="0" fPastObj="0" format="%.3f" formatTime="6" ctrlParName="АФУ21" beginIndx="0" fTime="0">
+                <ParToValue parName="АФУ21" fInclude="4" vLeft="0" vRight="0" type="1"/>
+            </oneAttribute>
+        </Attribute>
+    </Object>
+    <Object type="45" objID="54854961" name="1">
+        <AccordingMap>
+            <Accord faktPar="АФУ22" formalPar="@АФУ22"/>
+        </AccordingMap>
+        <Attribute codeType="0" code="610" checkAttVal="0">
+            <oneAttribute fLastValue="1" fStatus="0" fPastObj="0" format="%.3f" formatTime="6" ctrlParName="АФУ22" beginIndx="0" fTime="0">
+                <ParToValue parName="АФУ22" fInclude="4" vLeft="0" vRight="0" type="1"/>
+            </oneAttribute>
+        </Attribute>
+    </Object>
+    <Object type="45" objID="63210645" name="0">
+        <AccordingMap>
+            <Accord faktPar="АФУ41" formalPar="@АФУ41"/>
+        </AccordingMap>
+        <Attribute codeType="0" code="610" checkAttVal="0">
+            <oneAttribute fLastValue="1" fStatus="0" fPastObj="0" format="%.3f" formatTime="6" ctrlParName="АФУ41" beginIndx="0" fTime="0">
+                <ParToValue parName="АФУ41" fInclude="4" vLeft="0" vRight="0" type="1"/>
+            </oneAttribute>
+        </Attribute>
+    </Object>
+    <Object type="45" objID="54905381" name="1">
+        <AccordingMap>
+            <Accord faktPar="АФУ42" formalPar="@АФУ42"/>
+        </AccordingMap>
+        <Attribute codeType="0" code="610" checkAttVal="0">
+            <oneAttribute fLastValue="1" fStatus="0" fPastObj="0" format="%.3f" formatTime="6" ctrlParName="АФУ42" beginIndx="0" fTime="0">
+                <ParToValue parName="АФУ42" fInclude="4" vLeft="0" vRight="0" type="1"/>
             </oneAttribute>
         </Attribute>
     </Object>

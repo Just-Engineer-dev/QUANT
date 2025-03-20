@@ -4,32 +4,32 @@
         <element folded="1" fNoUse="0" type="0" comment="" name="Сигнальные" fInherits="0">
             <element folded="0" fNoUse="0" type="0" comment="" name="АФУ11" fInherits="0">
                 <States>
-                    <node valq="1" typeMem="1" name="замкнут" typeVar="0"/>
+                    <node valq="1" typeMem="1" log_expr="(АФУ11 = 1) &amp; (АФУ12 = 0)" name="замкнут" typeVar="0"/>
                 </States>
             </element>
             <element folded="0" fNoUse="0" type="0" comment="" name="АФУ12" fInherits="0">
                 <States>
-                    <node valq="1" typeMem="1" name="замкнут" typeVar="0"/>
+                    <node valq="1" typeMem="1" log_expr="(АФУ12 = 1) &amp; (АФУ11 = 0)" name="замкнут" typeVar="0"/>
                 </States>
             </element>
             <element folded="0" fNoUse="0" type="0" comment="" name="АФУ22" fInherits="0">
                 <States>
-                    <node valq="1" typeMem="1" name="замкнут" typeVar="0"/>
+                    <node valq="1" typeMem="1" log_expr="(АФУ22 = 1) &amp; (АФУ21 = 0)" name="замкнут" typeVar="0"/>
                 </States>
             </element>
             <element folded="0" fNoUse="0" type="0" comment="" name="АФУ21" fInherits="0">
                 <States>
-                    <node valq="1" typeMem="1" name="замкнут" typeVar="0"/>
+                    <node valq="1" typeMem="1" log_expr="(АФУ21 = 1) &amp; (АФУ22 = 0)" name="замкнут" typeVar="0"/>
                 </States>
             </element>
             <element folded="0" fNoUse="0" type="0" comment="" name="АФУ41" fInherits="0">
                 <States>
-                    <node valq="1" typeMem="1" name="замкнут" typeVar="0"/>
+                    <node valq="1" typeMem="1" log_expr="(АФУ41 = 1) &amp; (АФУ42 = 0)" name="замкнут" typeVar="0"/>
                 </States>
             </element>
             <element folded="0" fNoUse="0" type="0" comment="" name="АФУ42" fInherits="0">
                 <States>
-                    <node valq="1" typeMem="1" name="замкнут" typeVar="0"/>
+                    <node valq="1" typeMem="1" log_expr="(АФУ42 = 1) &amp; (АФУ41 = 0)" name="замкнут" typeVar="0"/>
                 </States>
             </element>
         </element>

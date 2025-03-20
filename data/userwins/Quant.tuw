@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TUW version="3.0" date="16.03.2025 20:37:44">
+<TUW version="3.0" date="20.03.2025 22:25:48">
     <object isMDI="0" type="6" name="Quant">
         <properties>
             <property templateName="" type="3" codeName="_FillColor_" name="цвет фона" code="1" colorRGBA="fff0f0f0"/>
             <property string="Quant" type="2" codeName="_Text_" name="заголовок" code="8"/>
             <property number="1088" type="0" codeName="_Notify_" name="события" code="11"/>
             <property number="1346" type="0" codeName="_Width_" name="ширина" code="23"/>
-            <property number="1255" type="0" codeName="_Height_" name="высота" code="24"/>
+            <property number="1267" type="0" codeName="_Height_" name="высота" code="24"/>
             <property number="1" type="5" codeName="_EditMoveble_" name="Edit Move" code="56"/>
             <property number="0" type="4" codeName="_LayoutType_" name="тип компоновщика" code="57"/>
             <property templateName="" type="3" codeName="_BlinkFillColor_" name="цвет мигания фона" code="102" colorRGBA="ff000000"/>
@@ -1980,7 +1980,7 @@
                     <property templateName="" type="3" codeName="_FillColor_" name="цвет фона" code="1" colorRGBA="808080"/>
                     <property templateName="" type="3" codeName="_TextColor_" name="цвет текста" code="2" colorRGBA="ff000000"/>
                     <property number="0" type="5" codeName="_Hide_" name="невидимость" code="4"/>
-                    <property image="/photo_2025-02-26_17-32-34.jpg" type="9" codeName="_Icon_" name="пиктограмма" code="5"/>
+                    <property image="/АФУ41.jpg" type="9" codeName="_Icon_" name="пиктограмма" code="5"/>
                     <property string="" type="2" codeName="_Text_" name="текст" code="8"/>
                     <property number="0" type="4" codeName="_FillBackgroundType_" name="тип заполнения" code="216"/>
                     <property templateName="" type="11" codeName="_FillGradient_" name="градиент" code="217">
@@ -1998,6 +1998,31 @@
                     <property string="" type="2" codeName="lMaxOpcode" name="имя пиктограммы" code="2053"/>
                     <property number="2" type="4" codeName="++lMaxOpcode" name="выравнивание по горизонтали" code="2054"/>
                     <property number="64" type="4" codeName="++lMaxOpcode" name="выравнивание по вертикали" code="2055"/>
+                </properties>
+            </object>
+            <object isMDI="0" type="45" name="1">
+                <properties>
+                    <property templateName="" type="3" codeName="_FillColor_" name="цвет фона" code="1" colorRGBA="808080"/>
+                    <property templateName="" type="3" codeName="_TextColor_" name="цвет текста" code="2" colorRGBA="ff000000"/>
+                    <property number="0" type="5" codeName="_Hide_" name="невидимость" code="4"/>
+                    <property image="/АФУ42.jpg" type="9" codeName="_Icon_" name="пиктограмма" code="5"/>
+                    <property string="" type="2" codeName="_Text_" name="текст" code="8"/>
+                    <property number="0" type="4" codeName="_FillBackgroundType_" name="тип заполнения" code="216"/>
+                    <property templateName="" type="11" codeName="_FillGradient_" name="градиент" code="217">
+                        <gradient radius="0" spread="0" type="3" coordinatemode="0" angle="0">
+                            <start X="0" Y="0"/>
+                            <stop X="0" Y="0"/>
+                            <stops/>
+                        </gradient>
+                    </property>
+                    <property number="0" type="4" codeName="_AspectRatioMode_" name="пропорции" code="303"/>
+                    <property type="6" codeName="_Font_" name="шрифт" code="351">
+                        <font strikeout="0" family="Tahoma" bold="0" pointsize="10" weight="50" underline="0" italic="0"/>
+                    </property>
+                    <property number="54905381" type="0" codeName="_IDIndex_" name="индекс" code="610"/>
+                    <property string="" type="2" codeName="lMaxOpcode" name="имя пиктограммы" code="2053"/>
+                    <property number="0" type="4" codeName="++lMaxOpcode" name="выравнивание по горизонтали" code="2054"/>
+                    <property number="0" type="4" codeName="++lMaxOpcode" name="выравнивание по вертикали" code="2055"/>
                 </properties>
             </object>
         </object>
@@ -2578,13 +2603,13 @@
             <properties>
                 <property number="0" type="5" codeName="_Dim_" name="недоступность" code="3"/>
                 <property number="0" type="5" codeName="_Hide_" name="невидимость" code="4"/>
-                <property number="0" type="0" codeName="_State_" name="текущее состояние" code="6"/>
+                <property number="1" type="0" codeName="_State_" name="текущее состояние" code="6"/>
                 <property string="" type="2" codeName="_Text_" name="текст" code="8"/>
                 <property number="0" type="0" codeName="_Notify_" name="события" code="11"/>
                 <property number="4" type="4" codeName="_TextHAlign_" name="выравнивание по горизонтали" code="14"/>
                 <property number="128" type="4" codeName="_TextVAlign_" name="выравнивание по вертикали" code="15"/>
-                <property number="849" type="0" codeName="_X1_" name="X" code="21"/>
-                <property number="611" type="0" codeName="_Y1_" name="Y" code="22"/>
+                <property number="846" type="0" codeName="_X1_" name="X" code="21"/>
+                <property number="610" type="0" codeName="_Y1_" name="Y" code="22"/>
                 <property number="160" type="0" codeName="_Width_" name="ширина" code="23"/>
                 <property number="93" type="0" codeName="_Height_" name="высота" code="24"/>
                 <property number="1" type="5" codeName="_EditMoveble_" name="Edit Move" code="56"/>
@@ -2644,7 +2669,7 @@
                     <property templateName="" type="3" codeName="_FillColor_" name="цвет фона" code="1" colorRGBA="808080"/>
                     <property templateName="" type="3" codeName="_TextColor_" name="цвет текста" code="2" colorRGBA="ff000000"/>
                     <property number="0" type="5" codeName="_Hide_" name="невидимость" code="4"/>
-                    <property image="/ПРД1.jpg" type="9" codeName="_Icon_" name="пиктограмма" code="5"/>
+                    <property image="/АФУ22.jpg" type="9" codeName="_Icon_" name="пиктограмма" code="5"/>
                     <property string="" type="2" codeName="_Text_" name="текст" code="8"/>
                     <property number="0" type="4" codeName="_FillBackgroundType_" name="тип заполнения" code="216"/>
                     <property templateName="" type="11" codeName="_FillGradient_" name="градиент" code="217">
@@ -2659,6 +2684,31 @@
                         <font strikeout="0" family="Tahoma" bold="0" pointsize="10" weight="50" underline="0" italic="0"/>
                     </property>
                     <property number="68640894" type="0" codeName="_IDIndex_" name="индекс" code="610"/>
+                    <property string="" type="2" codeName="lMaxOpcode" name="имя пиктограммы" code="2053"/>
+                    <property number="0" type="4" codeName="++lMaxOpcode" name="выравнивание по горизонтали" code="2054"/>
+                    <property number="0" type="4" codeName="++lMaxOpcode" name="выравнивание по вертикали" code="2055"/>
+                </properties>
+            </object>
+            <object isMDI="0" type="45" name="1">
+                <properties>
+                    <property templateName="" type="3" codeName="_FillColor_" name="цвет фона" code="1" colorRGBA="808080"/>
+                    <property templateName="" type="3" codeName="_TextColor_" name="цвет текста" code="2" colorRGBA="ff000000"/>
+                    <property number="0" type="5" codeName="_Hide_" name="невидимость" code="4"/>
+                    <property image="/АФУ21.jpg" type="9" codeName="_Icon_" name="пиктограмма" code="5"/>
+                    <property string="" type="2" codeName="_Text_" name="текст" code="8"/>
+                    <property number="0" type="4" codeName="_FillBackgroundType_" name="тип заполнения" code="216"/>
+                    <property templateName="" type="11" codeName="_FillGradient_" name="градиент" code="217">
+                        <gradient radius="0" spread="0" type="3" coordinatemode="0" angle="0">
+                            <start X="0" Y="0"/>
+                            <stop X="0" Y="0"/>
+                            <stops/>
+                        </gradient>
+                    </property>
+                    <property number="0" type="4" codeName="_AspectRatioMode_" name="пропорции" code="303"/>
+                    <property type="6" codeName="_Font_" name="шрифт" code="351">
+                        <font strikeout="0" family="Tahoma" bold="0" pointsize="10" weight="50" underline="0" italic="0"/>
+                    </property>
+                    <property number="54854961" type="0" codeName="_IDIndex_" name="индекс" code="610"/>
                     <property string="" type="2" codeName="lMaxOpcode" name="имя пиктограммы" code="2053"/>
                     <property number="0" type="4" codeName="++lMaxOpcode" name="выравнивание по горизонтали" code="2054"/>
                     <property number="0" type="4" codeName="++lMaxOpcode" name="выравнивание по вертикали" code="2055"/>
@@ -2756,13 +2806,13 @@
             <properties>
                 <property number="0" type="5" codeName="_Dim_" name="недоступность" code="3"/>
                 <property number="0" type="5" codeName="_Hide_" name="невидимость" code="4"/>
-                <property number="0" type="0" codeName="_State_" name="текущее состояние" code="6"/>
+                <property number="1" type="0" codeName="_State_" name="текущее состояние" code="6"/>
                 <property string="" type="2" codeName="_Text_" name="текст" code="8"/>
                 <property number="0" type="0" codeName="_Notify_" name="события" code="11"/>
                 <property number="4" type="4" codeName="_TextHAlign_" name="выравнивание по горизонтали" code="14"/>
                 <property number="128" type="4" codeName="_TextVAlign_" name="выравнивание по вертикали" code="15"/>
-                <property number="1121" type="0" codeName="_X1_" name="X" code="21"/>
-                <property number="598" type="0" codeName="_Y1_" name="Y" code="22"/>
+                <property number="1120" type="0" codeName="_X1_" name="X" code="21"/>
+                <property number="595" type="0" codeName="_Y1_" name="Y" code="22"/>
                 <property number="160" type="0" codeName="_Width_" name="ширина" code="23"/>
                 <property number="93" type="0" codeName="_Height_" name="высота" code="24"/>
                 <property number="1" type="5" codeName="_EditMoveble_" name="Edit Move" code="56"/>
@@ -2822,7 +2872,7 @@
                     <property templateName="" type="3" codeName="_FillColor_" name="цвет фона" code="1" colorRGBA="808080"/>
                     <property templateName="" type="3" codeName="_TextColor_" name="цвет текста" code="2" colorRGBA="ff000000"/>
                     <property number="0" type="5" codeName="_Hide_" name="невидимость" code="4"/>
-                    <property image="/photo_2025-02-26_17-32-34.jpg" type="9" codeName="_Icon_" name="пиктограмма" code="5"/>
+                    <property image="/АФУ12.jpg" type="9" codeName="_Icon_" name="пиктограмма" code="5"/>
                     <property string="" type="2" codeName="_Text_" name="текст" code="8"/>
                     <property number="0" type="4" codeName="_FillBackgroundType_" name="тип заполнения" code="216"/>
                     <property templateName="" type="11" codeName="_FillGradient_" name="градиент" code="217">
@@ -2840,6 +2890,31 @@
                     <property string="" type="2" codeName="lMaxOpcode" name="имя пиктограммы" code="2053"/>
                     <property number="2" type="4" codeName="++lMaxOpcode" name="выравнивание по горизонтали" code="2054"/>
                     <property number="64" type="4" codeName="++lMaxOpcode" name="выравнивание по вертикали" code="2055"/>
+                </properties>
+            </object>
+            <object isMDI="0" type="45" name="1">
+                <properties>
+                    <property templateName="" type="3" codeName="_FillColor_" name="цвет фона" code="1" colorRGBA="808080"/>
+                    <property templateName="" type="3" codeName="_TextColor_" name="цвет текста" code="2" colorRGBA="ff000000"/>
+                    <property number="0" type="5" codeName="_Hide_" name="невидимость" code="4"/>
+                    <property image="/АФУ11.jpg" type="9" codeName="_Icon_" name="пиктограмма" code="5"/>
+                    <property string="" type="2" codeName="_Text_" name="текст" code="8"/>
+                    <property number="0" type="4" codeName="_FillBackgroundType_" name="тип заполнения" code="216"/>
+                    <property templateName="" type="11" codeName="_FillGradient_" name="градиент" code="217">
+                        <gradient radius="0" spread="0" type="3" coordinatemode="0" angle="0">
+                            <start X="0" Y="0"/>
+                            <stop X="0" Y="0"/>
+                            <stops/>
+                        </gradient>
+                    </property>
+                    <property number="0" type="4" codeName="_AspectRatioMode_" name="пропорции" code="303"/>
+                    <property type="6" codeName="_Font_" name="шрифт" code="351">
+                        <font strikeout="0" family="Tahoma" bold="0" pointsize="10" weight="50" underline="0" italic="0"/>
+                    </property>
+                    <property number="74875159" type="0" codeName="_IDIndex_" name="индекс" code="610"/>
+                    <property string="" type="2" codeName="lMaxOpcode" name="имя пиктограммы" code="2053"/>
+                    <property number="0" type="4" codeName="++lMaxOpcode" name="выравнивание по горизонтали" code="2054"/>
+                    <property number="0" type="4" codeName="++lMaxOpcode" name="выравнивание по вертикали" code="2055"/>
                 </properties>
             </object>
         </object>
