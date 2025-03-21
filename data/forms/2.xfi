@@ -249,4 +249,9 @@
             </oneAttribute>
         </Attribute>
     </Object>
+    <Object type="6" objID="0" name="Quant">
+        <Event code="1024">
+            <oneEvent action="2"/>
+        </Event>
+    </Object>
 </FormInfo>
